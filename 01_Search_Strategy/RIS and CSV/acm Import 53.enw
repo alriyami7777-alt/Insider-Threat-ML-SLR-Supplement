@@ -1,0 +1,516 @@
+%0 Proceeding
+%T Proceedings of the 2023 4th International Conference on Machine Learning and Computer Application
+%@ 9798400709449
+%I Association for Computing Machinery
+%D 2023
+%C Hangzhou, China
+
+%0 Proceeding
+%T Proceedings of the 2020 Workshop on DYnamic and Novel Advances in Machine Learning and Intelligent Cyber Security
+%@ 9781450387149
+%I Association for Computing Machinery
+%D 2020
+%C Lexington, MA, USA
+
+%0 Journal Article
+%T Advanced Persistent Threat Attack Detection Systems: A Review of Approaches, Challenges, and Trends
+%V 5
+%U https://doi.org/10.1145/3696014
+%R 10.1145/3696014
+%N 4
+%J Digital Threats
+%I Association for Computing Machinery
+%A Robin Buchta
+%A George Gkoktsis
+%A Felix Heine
+%A Carsten Kleiner
+%D 2024
+%P Article 39
+%K Cybersecurity, APT, attack detection, machine learning, artificial intelligence
+
+%0 Journal Article
+%T Provenance-based Intrusion Detection Systems: A Survey
+%V 55
+%@ 0360-0300
+%U https://doi.org/10.1145/3539605
+%R 10.1145/3539605
+%N 7
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Michael Zipperle
+%A Florian Gottwalt
+%A Elizabeth Chang
+%A Tharam Dillon
+%D 2022
+%P Article 135
+%K Intrusion detection, data provenance, graph summarization, machine learning, benchmark dataset, survey
+
+%0 Journal Article
+%T Rare Category Analysis for Complex Data: A Review
+%V 56
+%@ 0360-0300
+%U https://doi.org/10.1145/3626520
+%R 10.1145/3626520
+%N 5
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Dawei Zhou
+%A Jingrui He
+%D 2023
+%P Article 123
+%K Rare category analysis, imbalanced data distribution, anomaly detection
+
+%0 Journal Article
+%T Smart Grid Cyber-Physical Situational Awareness of Complex Operational Technology Attacks: A Review
+%V 55
+%@ 0360-0300
+%U https://doi.org/10.1145/3565570
+%R 10.1145/3565570
+%N 10
+%J ACM Comput. Surv.
+%I Association for Computing Machinery
+%A Muhammad Nouman Nafees
+%A Neetesh Saxena
+%A Alvaro Cardenas
+%A Santiago Grijalva
+%A Pete Burnap
+%D 2023
+%P Article 215
+%K Smart grid, threat modeling, complex cyber-physical attacks, operational technology attacks, intrusion detection system, deep learning, federated learning, moving target defense, co-simulation, situational awareness, metrics
+
+%0 Conference Paper
+%T Predicting IoT Device Vulnerability Fix Times with Survival and Failure Time Models
+%@ 9798400715075
+%U https://doi.org/10.1145/3727166.3727189
+%R 10.1145/3727166.3727189
+%B Proceedings of the 2025 Australasian Computer Science Week
+%I Association for Computing Machinery
+%A Carlos Alberto Rivera Alvarez
+%A Xinzhang Chen
+%A Arash Shaghaghi
+%A Gustavo Batista
+%A Salil Kanhere
+%D 2025
+%P 55–65
+%K IoT Patch Management, Time to Fix Prediction, IoT Security, Survival Analysis
+%C 
+
+
+%0 Conference Paper
+%T GNN-IDS: Graph Neural Network based Intrusion Detection System
+%@ 9798400717185
+%U https://doi.org/10.1145/3664476.3664515
+%R 10.1145/3664476.3664515
+%B Proceedings of the 19th International Conference on Availability, Reliability and Security
+%I Association for Computing Machinery
+%A Zhenlu Sun
+%A André M.H. Teixeira
+%A Salman Toor
+%D 2024
+%P Article 14
+%K Explainability, Graph Neural Network, Intrusion Detection System, Robustness, Uncertainty
+%C Vienna, Austria
+
+%0 Conference Paper
+%T Finding MNEMON: Reviving Memories of Node Embeddings
+%@ 9781450394505
+%U https://doi.org/10.1145/3548606.3559358
+%R 10.1145/3548606.3559358
+%B Proceedings of the 2022 ACM SIGSAC Conference on Computer and Communications Security
+%I Association for Computing Machinery
+%A Yun Shen
+%A Yufei Han
+%A Zhikun Zhang
+%A Min Chen
+%A Ting Yu
+%A Michael Backes
+%A Yang Zhang
+%A Gianluca Stringhini
+%D 2022
+%P 2643–2657
+%K graph embedding, machine learning security and privacy
+%C Los Angeles, CA, USA
+
+%0 Conference Paper
+%T Integrating Security Behavior into Attack Simulations
+%@ 9781450390514
+%U https://doi.org/10.1145/3465481.3470475
+%R 10.1145/3465481.3470475
+%B Proceedings of the 16th International Conference on Availability, Reliability and Security
+%I Association for Computing Machinery
+%A Simon Hacks
+%A Ismail Butun
+%A Robert Lagerström
+%A Andrei Buhaiu
+%A Anna Georgiadou
+%A Ariadni Michalitsi Psarrou
+%D 2021
+%P Article 120
+%K Attack Simulations, Integration, Security Behavior
+%C Vienna, Austria
+
+%0 Conference Paper
+%T TRUSTEE: Towards the creation of secure, trustworthy and privacy-preserving framework
+%@ 9798400707728
+%U https://doi.org/10.1145/3600160.3604997
+%R 10.1145/3600160.3604997
+%B Proceedings of the 18th International Conference on Availability, Reliability and Security
+%I Association for Computing Machinery
+%A Sarwar Sayeed
+%A Nikolaos Pitropakis
+%A William J. Buchanan
+%A Evangelos Markakis
+%A Dimitra Papatsaroucha
+%A Ilias Politis
+%D 2023
+%P Article 145
+%K Distributed Ledger, IPFS, Privacy, Security, Trust
+%C Benevento, Italy
+
+%0 Proceeding
+%T Proceedings of the 2024 4th International Conference on Big Data, Artificial Intelligence and Risk Management
+%@ 9798400709753
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 29th International Conference on Evaluation and Assessment in Software Engineering Companion
+%@ 9798400718328
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 8th International Conference on Computer Information Science and Artificial Intelligence
+%@ 9798400718748
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 International Conference on Artificial Intelligence and its Applications
+%@ 9798400721588
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Conference Paper
+%T RAPID: Real-Time Alert Investigation with Context-aware Prioritization for Efficient Threat Discovery
+%@ 9781450397599
+%U https://doi.org/10.1145/3564625.3567997
+%R 10.1145/3564625.3567997
+%B Proceedings of the 38th Annual Computer Security Applications Conference
+%I Association for Computing Machinery
+%A Yushan Liu
+%A Xiaokui Shu
+%A Yixin Sun
+%A Jiyong Jang
+%A Prateek Mittal
+%D 2022
+%P 827–840
+%C Austin, TX, USA
+
+%0 Conference Paper
+%T “It may take ages”: Understanding Human-Centred Lateral Phishing Attack Detection in Organisations
+%@ 9798400708145
+%U https://doi.org/10.1145/3617072.3617116
+%R 10.1145/3617072.3617116
+%B Proceedings of the 2023 European Symposium on Usable Security
+%I Association for Computing Machinery
+%A Neeranjan Chitare
+%A Lynne Coventry
+%A James Nicholson
+%D 2023
+%P 344–355
+%K Cybersecurity Practitioners, Lateral Phishing, Organisations, Phishing, Reporting
+%C Copenhagen, Denmark
+
+%0 Proceeding
+%T Proceedings of the 2024 3rd International Conference on Networks, Communications and Information Technology
+%@ 9798400717048
+%I Association for Computing Machinery
+%D 2024
+%C Xi'an, China
+
+%0 Proceeding
+%T Proceedings of the 2023 New Security Paradigms Workshop
+%@ 9798400716201
+%I Association for Computing Machinery
+%D 2023
+%C Segovia, Spain
+
+%0 Proceeding
+%T Proceedings of the 2023 European Symposium on Usable Security
+%@ 9798400708145
+%I Association for Computing Machinery
+%D 2023
+%C Copenhagen, Denmark
+
+%0 Proceeding
+%T Proceedings of the 2024 7th Artificial Intelligence and Cloud Computing Conference
+%@ 9798400717925
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Journal Article
+%T Low Complexity Speech Secure Hash Retrieval Algorithm Based on KDTree Nearest Neighbor Search
+%V 24
+%@ 2375-4699
+%U https://doi.org/10.1145/3723161
+%R 10.1145/3723161
+%N 5
+%J ACM Trans. Asian Low-Resour. Lang. Inf. Process.
+%I Association for Computing Machinery
+%A Yibo Huang
+%A Li An
+%A Qiuyu Zhang
+%D 2025
+%P Article 44
+%K Secure hash, KDTree cancelable biometric template, low complexity, content verifiable
+
+%0 Proceeding
+%T Proceedings of the 7th Joint Workshop on CPS&amp;IoT Security and Privacy
+%@ 9798400718977
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2023 Fifteenth International Conference on Contemporary Computing
+%@ 9798400700224
+%I Association for Computing Machinery
+%D 2023
+%C Noida, India
+
+%0 Proceeding
+%T Proceedings of the 2025 ACM Symposium on Document Engineering
+%@ 9798400713514
+%I Association for Computing Machinery
+%D 2025
+%C Nottingham, United Kingdom
+
+%0 Proceeding
+%T Proceedings of the 2023 6th International Conference on Big Data Technologies
+%@ 9798400707667
+%I Association for Computing Machinery
+%D 2023
+%C Qingdao, China
+
+%0 Proceeding
+%T Proceedings of the ACM on Web Conference 2025
+%@ 9798400712746
+%I Association for Computing Machinery
+%D 2025
+%C Sydney NSW, Australia
+
+%0 Conference Paper
+%T Data Loss Prevention Solution for Linux Endpoint Devices
+%@ 9798400707728
+%U https://doi.org/10.1145/3600160.3605036
+%R 10.1145/3600160.3605036
+%B Proceedings of the 18th International Conference on Availability, Reliability and Security
+%I Association for Computing Machinery
+%A Lukas Daubner
+%A Adam Považanec
+%D 2023
+%P Article 130
+%K Auditing, DLP, Data Leakage, Data Loss Prevention, Kernel Hooking
+%C Benevento, Italy
+
+%0 Proceeding
+%T Proceedings of the 29th ACM Symposium on Access Control Models and Technologies
+%@ 9798400704918
+%I Association for Computing Machinery
+%D 2024
+%C San Antonio, TX, USA
+
+%0 Proceeding
+%T Proceedings of the 2023 5th International Conference on Information Technology and Computer Communications
+%@ 9798400700583
+%I Association for Computing Machinery
+%D 2023
+%C Tianjin, China
+
+%0 Proceeding
+%T Proceedings of the 19th International Conference on Availability, Reliability and Security
+%@ 9798400717185
+%I Association for Computing Machinery
+%D 2024
+%C Vienna, Austria
+
+%0 Proceeding
+%T Proceedings of the 9th ACM Cyber-Physical System Security Workshop
+%@ 9798400700903
+%I Association for Computing Machinery
+%D 2023
+%C Melbourne, VIC, Australia
+
+%0 Proceeding
+%T Proceedings of the 13th Knowledge Capture Conference 2025
+%@ 9798400718670
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2024 International Conference on Artificial Intelligence of Things and Computing
+%@ 9798400709869
+%I Association for Computing Machinery
+%D 2024
+%C 
+
+
+%0 Conference Paper
+%T Eye Gaze-Based Human Error Prevention System: Experts vs. Non-Experts.
+%@ 9781450387514
+%U https://doi.org/10.1145/3433174.3433598
+%R 10.1145/3433174.3433598
+%B 13th International Conference on Security of Information and Networks
+%I Association for Computing Machinery
+%A Oksana Kilik
+%A Abdulaziz Almehmadi
+%A Khalil El-Khatib
+%D 2021
+%P Article 27
+%K Human error, cognitive behavior, eye gaze behavior, eye movement. Network administration, eye tracking, security, technology
+%C Merkez, Turkey
+
+%0 Proceeding
+%T Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security
+%@ 9798400715259
+%I Association for Computing Machinery
+%D 2025
+%C Taipei, Taiwan
+
+%0 Proceeding
+%T Proceedings of the SC '24 Workshops of the International Conference on High Performance Computing, Network, Storage, and Analysis
+%@ 9798350355543
+%I IEEE Press
+%D 2024
+%C Atlanta, GA, USA
+
+%0 Proceeding
+%T Proceedings of the 2023 13th International Conference on Communication and Network Security
+%@ 9798400707964
+%I Association for Computing Machinery
+%D 2023
+%C Fuzhou, China
+
+%0 Proceeding
+%T Proceedings of the 18th International Conference on Availability, Reliability and Security
+%@ 9798400707728
+%I Association for Computing Machinery
+%D 2023
+%C Benevento, Italy
+
+%0 Proceeding
+%T Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1
+%@ 9798400705311
+%I Association for Computing Machinery
+%D 2025
+%C Pittsburgh, PA, USA
+
+%0 Proceeding
+%T Proceedings of the 38th Annual Computer Security Applications Conference
+%@ 9781450397599
+%I Association for Computing Machinery
+%D 2022
+%C Austin, TX, USA
+
+%0 Proceeding
+%T Proceedings of the Great Lakes Symposium on VLSI 2025
+%@ 9798400714962
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 17th International Conference on Availability, Reliability and Security
+%@ 9781450396707
+%I Association for Computing Machinery
+%D 2022
+%C Vienna, Austria
+
+%0 Proceeding
+%T Proceedings of the 26th ACM Symposium on Access Control Models and Technologies
+%@ 9781450383653
+%I Association for Computing Machinery
+%D 2021
+%C Virtual Event, Spain
+
+%0 Proceeding
+%T Proceedings of the 2025 Workshop on Large AI Systems and Models with Privacy and Security Analysis
+%@ 9798400718960
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 2025 Australasian Computer Science Week
+%@ 9798400715075
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2
+%@ 9798400704246
+%I Association for Computing Machinery
+%D 2024
+%C Portland, OR, USA
+
+%0 Proceeding
+%T Proceedings of the 2025 31st ACM Symposium on Virtual Reality Software and Technology
+%@ 9798400721182
+%I Association for Computing Machinery
+%D 2025
+%C 
+
+
+%0 Proceeding
+%T Proceedings of the Central and Eastern European eDem and eGov Days 2024
+%@ 9798400717093
+%I Association for Computing Machinery
+%D 2024
+%C Budapest, Hungary
+
+%0 Proceeding
+%T Proceedings of the 19th ACM Asia Conference on Computer and Communications Security
+%@ 9798400704826
+%I Association for Computing Machinery
+%D 2024
+%C Singapore, Singapore
+
+%0 Proceeding
+%T Proceedings of the 7th International Conference on Sustainable Information Engineering and Technology
+%@ 9781450397117
+%I Association for Computing Machinery
+%D 2022
+%C Malang, Indonesia
+
+%0 Proceeding
+%T Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems
+%@ 9781450394222
+%I Association for Computing Machinery
+%D 2023
+%C Hamburg, Germany
+
+%0 Proceeding
+%T Proceedings of the 2022 New Security Paradigms Workshop
+%@ 9781450398664
+%I Association for Computing Machinery
+%D 2022
+%C North Conway, NH, USA
+

@@ -1,0 +1,2067 @@
+TY  - JOUR
+T1  - Graph-theoretic approaches for analyzing the resilience of distributed control systems: A tutorial and survey
+AU  - Pirani, Mohammad
+AU  - Mitra, Aritra
+AU  - Sundaram, Shreyas
+JO  - Automatica
+VL  - 157
+SP  - 111264
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0005-1098
+DO  - https://doi.org/10.1016/j.automatica.2023.111264
+UR  - https://www.sciencedirect.com/science/article/pii/S0005109823004259
+KW  - Distributed control systems
+KW  - Graph theory
+KW  - Resilient distributed algorithms
+AB  - As the scale of distributed control systems over networks increases and interactions between different subsystems become more sophisticated, questions of the resilience of such networks to attacks and faults increase in importance. The need to adapt (and redefine) classical system and control-theoretic notions to answer such questions using the language of graphs has recently started to gain attention as a fertile and important area of research. This paper presents an overview of graph-theoretic methods for analyzing the resilience of distributed control systems. We survey distributed algorithms that have been proposed to solve a variety of problems in networked systems, and summarize their resilience against adversarial actions in the context of the structure of the underlying networks. We also discuss graph-theoretic methods to quantify the attack impact, and reinterpret some system-theoretic notions of robustness from a graph-theoretic standpoint to mitigate the impact of the attacks. We conclude by introducing some avenues for further research in this field.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing service availability and resource deployment in IoT using a shared service replication method
+AU  - Kaaniche, Khaled
+AU  - Othmen, Salwa
+AU  - Alfahid, Ayman
+AU  - Yousef, Amr
+AU  - Albekairi, Mohammed
+AU  - El-Hamrawy, Osama I.
+JO  - Heliyon
+VL  - 10
+IS  - 3
+SP  - e25255
+PY  - 2024
+DA  - 2024/02/15/
+SN  - 2405-8440
+DO  - https://doi.org/10.1016/j.heliyon.2024.e25255
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844024012866
+KW  - Data availability
+KW  - IoT
+KW  - NFV
+KW  - Regression learning
+KW  - Resource utilization
+KW  - Service availability
+AB  - In many real-world contexts, the Internet of Things (IoT) is valued for its capacity to facilitate the smooth operation of interoperable applications and services. It is critical to ensure the accessibility and replication of IoT resources to improve the agility of these applications. As a solution, the Network Function Virtualization (NFV) paradigm is embedded into the IoT design to leverage information from various endpoint applications better and maximize resource utilization. In this study, the Shared Replication Augmenting Method (SRAM) is proposed to increase resource usage in underutilized NFVs and maintain service availability simultaneously. The regressive decision-making learning used by SRAM enables the detection of NFV needs for data and application portability across various real-time use cases. This regression method can uncover data needs and their causes, allowing for prompt answers and more efficient use of available resources. The suggested SRAM technique dynamically modifies the procedure while considering computation-less function allocations, making it suitable for various interoperable applications. It distributes root-to-service virtualization and availability based on historical use and data replication. Therefore, SRAM improves resource usage by 7.09 % with no increase in latency or delays. It also increases service availability by 10.4 %, reduces latency by 11.89 %, eliminates backlogs by 11.1 %, and reduces data repetition by 8.97 %. This study enhances resource consumption and productivity in IoT settings by offering SRAM as a viable solution. The study's results prove its potential to reduce the occurrence of replication, delay, and queues while raising the availability of services.
+ER  - 
+
+TY  - JOUR
+T1  - Bandwidth and power efficient lightweight authentication scheme for healthcare system☆☆☆☆☆☆
+AU  - Jan, Saeed Ullah
+AU  - Ghani, Anwar
+AU  - Alzahrani, Abdulrahman
+AU  - Saqlain, Syed Muhammad
+AU  - Yahya, Khalid
+AU  - Sajjad, Haseeb
+JO  - Journal of King Saud University - Computer and Information Sciences
+VL  - 35
+IS  - 7
+SP  - 101601
+PY  - 2023
+DA  - 2023/07/01/
+SN  - 1319-1578
+DO  - https://doi.org/10.1016/j.jksuci.2023.101601
+UR  - https://www.sciencedirect.com/science/article/pii/S1319157823001556
+KW  - Authentication protocol
+KW  - Privacy
+KW  - Cryptography
+KW  - Security
+KW  - Efficiency
+KW  - Reliability
+AB  - With the emergence of the Internet of Things (IoT) and the rapid advancement in sensor technology, wireless medical sensor networks (WMSNs) have become increasingly important in improving health services. WMSNs are deployed for remote monitoring and collecting physiological data of patients for diagnosis and treatment. With the assistance of wearable and mobile devices, IoT-based innovative healthcare solution is extensively adopted to provide better, more precise, and quicker diagnoses. However, the WMSN of healthcare is bandwidth limited and has low latency, while the resource-limited sensors and tremendous IoT output cannot run on practiced security protocols that involve complex encryption/decryption operations. A security system that requires minimal computation and communication time to reduce delay and save the devices’ power source is much needed. Therefore, this article presents a lightweight and robust authentication protocol for the healthcare system that can be used with power and bandwidth-limited devices. Furthermore, this scheme uses random numbers instead of complex encryption/decryption to reduce computation time and energy consumption. The security and performance analysis results show that the proposed method performs better than its competitors regarding security, communication, and computation costs and prolongs the network lifetime.
+ER  - 
+
+TY  - JOUR
+T1  - Cybersecurity preparedness of small-to-medium businesses: A Western Australia study with broader implications
+AU  - Chidukwani, Alladean
+AU  - Zander, Sebastian
+AU  - Koutsakis, Polychronis
+JO  - Computers & Security
+VL  - 145
+SP  - 104026
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2024.104026
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404824003316
+KW  - Cybersecurity threat awareness
+KW  - Cybersecurity challenges in SMBs
+KW  - Cybersecurity controls
+KW  - Cybersecurity factors in SMBs
+KW  - Cybersecurity guidance for SMBs
+KW  - Cybersecurity gaps in SMBs
+KW  - Cybersecurity legislation and SMBs
+KW  - Cybersecurity legislation compliance
+KW  - SMB cybersecurity awareness
+KW  - NIST CSF in SMBs
+AB  - This study was prompted by the scarcity of focused quantitative research on the cybersecurity of SMBs. Our research aimed to understand the factors influencing SMBs' approach to cybersecurity, their level of threat awareness and the importance placed on cybersecurity. It also explored the extent to which NIST CSF practices are implemented by SMBs while also detecting and ranking the prevalent challenges faced by SMBs. Additionally, resources that SMBs turn to for help and guidance were also evaluated. While the survey-based study was on Western Australian SMBs, the results are of more general and wider interest. Our study found the lack of funds to be the biggest hindrance to cybersecurity, along with a lack of knowledge on where to start implementing good security practices. SMBs also lacked familiarity with relevant regulations and frameworks. The study highlights areas for improvement, such as access control mechanisms, individual user accounts, formalised policies and procedures, and dedicated budgets. SMBs heavily rely on Google search for cybersecurity information, emphasising the need for optimised search results from authoritative sources. IT service providers and informal networks also emerge as important sources of cybersecurity guidance, while local universities could assist SMBs but remain underutilised in this regard. Interestingly, factors such as organisational size, industry sector, and revenue level did not significantly impact SMBs' perception of vulnerability to cyber threats. However, further investigation is needed to evaluate the effectiveness of different IT service models for SMBs' cybersecurity needs. Overall, the research provides valuable insights into the specific gaps and challenges faced by SMBs in the cybersecurity domain, as well as their preferred methods of seeking and consuming cybersecurity assistance. The findings can guide the development of targeted strategies and policies to enhance the cybersecurity posture of SMBs.
+ER  - 
+
+TY  - JOUR
+T1  - Harnessing GPT-4 for generation of cybersecurity GRC policies: A focus on ransomware attack mitigation
+AU  - McIntosh, Timothy
+AU  - Liu, Tong
+AU  - Susnjak, Teo
+AU  - Alavizadeh, Hooman
+AU  - Ng, Alex
+AU  - Nowrozy, Raza
+AU  - Watters, Paul
+JO  - Computers & Security
+VL  - 134
+SP  - 103424
+PY  - 2023
+DA  - 2023/11/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2023.103424
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404823003346
+KW  - GPT
+KW  - Cybersecurity policies
+KW  - Ransomware
+KW  - Policy generation
+KW  - GRC
+AB  - This study investigated the potential of Generative Pre-trained Transformers (GPTs), a state-of-the-art large language model, in generating cybersecurity policies to deter and mitigate ransomware attacks that perform data exfiltration. We compared the effectiveness, efficiency, completeness, and ethical compliance of GPT-generated Governance, Risk and Compliance (GRC) policies, with those from established security vendors and government cybersecurity agencies, using game theory, cost-benefit analysis, coverage ratio, and multi-objective optimization. Our findings demonstrated that GPT-generated policies could outperform human-generated policies in certain contexts, particularly when provided with tailored input prompts. To address the limitations of our study, we conducted our analysis with thorough human moderation, tailored input prompts, and the inclusion of legal and ethical experts. Based on these results, we made recommendations for corporates considering the incorporation of GPT in their GRC policy making.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing the security of blockchain-based software defined networking through trust-based traffic fusion and filtration
+AU  - Meng, Weizhi
+AU  - Li, Wenjuan
+AU  - Zhou, Jianying
+JO  - Information Fusion
+VL  - 70
+SP  - 60
+EP  - 71
+PY  - 2021
+DA  - 2021/06/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2020.12.006
+UR  - https://www.sciencedirect.com/science/article/pii/S1566253520304310
+KW  - Blockchain technology
+KW  - Software-Defined Networking
+KW  - Traffic fusion
+KW  - Trust computation
+KW  - Intrusion detection
+KW  - Traffic filtration
+AB  - With the rapid development of Internet-of-Things (IoT), more smart devices can be connected to the Internet, resulting in a dramatic increase of data transmission and communication. Software-Defined Networking (SDN), which separates the control planes and data planes, is considered as a promising solution to provide the scale and versatility necessary for IoT. However, SDN still suffers from several challenges, i.e., the centralized control plane would be a single point of failure. With the wide adoption of blockchain applications, such technologies can have a positive impact on SDN’s performance, i.e., blockchains allow non-confident individuals to interact with each other without the need for a central authority. However, attackers can still inject traffic to influence blockchain nodes from normal operations. Motivated by the recent development of blockchains and SDN, in this work, we focus on blockchain-based SDN and develop BSDNFilter, an IDS-based security mechanism that builds a trust-based filtration by using traffic fusion and aggregation to handle and reduce malicious traffic. Through collaborating with an IT organization, our evaluation in a real blockchain-based SDN environment demonstrates that our BSDNFilter is able to achieve better filtration performance against flooding attacks than similar approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Identification of security scenarios in offshore Oil&Gas production facilities based on past incident analysis
+AU  - Iaiani, Matteo
+AU  - Musayev, Namig
+AU  - Tugnoli, Alessandro
+AU  - Macini, Paolo
+AU  - Mesini, Ezio
+AU  - Cozzani, Valerio
+JO  - Process Safety and Environmental Protection
+VL  - 192
+SP  - 926
+EP  - 945
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 0957-5820
+DO  - https://doi.org/10.1016/j.psep.2024.10.061
+UR  - https://www.sciencedirect.com/science/article/pii/S0957582024013405
+KW  - Offshore
+KW  - Oil&Gas
+KW  - Security
+KW  - Past incident analysis
+KW  - Scenario Identification
+KW  - API RP 70
+AB  - Offshore Oil&Gas installations may be attractive targets of intentional attacks due to their presence in socio-political sensitive areas, their economic significance, and the high impact of scenarios that can be triggered by the mismanagement of the hazardous substances handled (e.g., crude oil, natural gas, etc.). In the present study, a new dataset including 112 past security-related incidents that affected the offshore Oil&Gas sector in the last decades was developed and analyzed using Exploratory Data Analysis (EDA), Root Cause Analysis (RCA), and Attack Tree Analysis (ATA). Significant differences were found in the types of threats and attack modes, with terrorism identified as the primary threat, followed by robbery and kidnapping. The identified scenarios caused fatalities, injuries, and asset damages at the targeted facilities, underscoring their potential to cause severe impacts, comparable to the outcomes of safety-related accidents. Tables linking the specific contribution of the identified attack modes, scenarios, and consequences to the SVA workflow proposed by the API Recommended Practices 70 and 70I were obtained. Overall, the results obtained support the application of suitable Security Vulnerability/Risk Assessment (SVA/SRA) methodologies concerning the identification and characterization of adversaries, the definition of attack modes, the evaluation of effectiveness of existing security barriers, and the assessment of consequences.
+ER  - 
+
+TY  - JOUR
+T1  - Security experimental framework of trajectory planning for autonomous vehicles
+AU  - Al-sheyab, Sujoud
+AU  - Al-shara, Zakarea
+AU  - Al-khaleel, Osama
+JO  - International Journal of Intelligent Networks
+VL  - 5
+SP  - 315
+EP  - 324
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 2666-6030
+DO  - https://doi.org/10.1016/j.ijin.2024.08.003
+UR  - https://www.sciencedirect.com/science/article/pii/S2666603024000307
+AB  - In the contemporary landscape, autonomous vehicles (AVs) have emerged as a prominent technological advancement globally. Despite their widespread adoption, significant hurdles remain, with security standing out as a critical concern. The potential for attacks within AV networks, exemplified by the Trajectory Privacy Attack on Autonomous Driving (T-PAAD), underscores the urgency for robust security measures. Unfortunately, existing simulations for preemptively assessing the T-PAAD attack's impact are scarce. This paper introduces the Security Experimental Framework for Autonomous Vehicles (SEFAV), designed to address this gap by providing a versatile platform for simulating security scenarios in AV environments. SEFAV is cross-platform and compatible with different operating systems such as Windows and Linux, enhancing accessibility for researchers and practitioners. Our primary focus lies in showcasing the T-PAAD attack within our framework, highlighting its efficacy in evaluating and fortifying AV security.
+ER  - 
+
+TY  - JOUR
+T1  - Security analysis of the open banking account and transaction API protocol
+AU  - Modesti, Paolo
+AU  - Freitas, Leo
+AU  - Shotomiwa, Qudus
+AU  - Almehrej, Abdulaziz
+JO  - Cyber Security and Applications
+VL  - 3
+SP  - 100097
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2772-9184
+DO  - https://doi.org/10.1016/j.csa.2025.100097
+UR  - https://www.sciencedirect.com/science/article/pii/S2772918425000141
+KW  - Open banking
+KW  - Fintech
+KW  - API Security
+KW  - Security protocols
+KW  - PSD2
+AB  - The Second Payment Services Directive (PSD2) of the European Union aims to create a consumer-friendly financial market by mandating secure and standardised data sharing between banking operators and third parties. Consequently, EU countries and the United Kingdom have adopted Open Banking, a standardised data-sharing API. This paper presents a formal modelling and security analysis of the UK Open Banking Standard’s APIs, with a specific focus on the Account and Transaction API protocol. Our methodology employs the extended Alice and Bob notation (AnBx) to create a formal model of the protocol, which is then verified using the OFMC symbolic model checker and the ProVerif cryptographic protocol verifier. We extend previous work by enabling verification for unlimited sessions with a strongly typed model. Additionally, we integrate our formal analysis with practical security testing of some necessary conditions to demonstrate verified security-goals in the NatWest Open Banking sandbox, evaluating mechanisms such as authorisation and authentication procedures.
+ER  - 
+
+TY  - JOUR
+T1  - IoEPM+: A secured and lightweight 6G-enabled pollution monitoring authentication framework using IoT and blockchain technology
+AU  - Kumar, Vipin
+AU  - Ali, Rifaqat
+AU  - Sharma, Pawan Kumar
+JO  - Computer Networks
+VL  - 250
+SP  - 110554
+PY  - 2024
+DA  - 2024/08/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110554
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624003864
+KW  - Environmental pollution monitoring
+KW  - Authentication framework
+KW  - Blockchain technology
+KW  - Internet of things
+KW  - RoR model
+KW  - Scyther tool
+AB  - Nowadays, the health of individuals, particularly those residing in industrial areas, faces escalating risks from pollution in air, soil, water, and waste residue. Understanding and monitoring such environmental dynamics is both challenging and essential for safeguarding public health. Therefore, the implementation of an Internet of Things (IoT) enabled Environmental Pollution Monitoring (EPM) framework becomes imperative. This framework involves strategically positioning IoT devices, which can collect data through mobile devices such as Unmanned Aerial Vehicles (UAVs) or Drones. However, the communication channels among these IoT devices are publicly accessible, which exposes them to potential security threats and device capture attacks. Additionally, continuous data collection raises concerns regarding data storage and latency, as well as communication and computational costs, along with energy consumption. Overcoming these challenges necessitates the development of a lightweight authentication and key-agreement framework tailored for resource-constrained drones, leveraging blockchain-enabled cloud servers. To address this, we propose IoEPM+, a secured and lightweight framework for environmental pollution monitoring, leveraging IoT and computing devices within a 6G-enabled network. The security of the proposed framework is validated through both informal security analysis and formal analysis using the “Real-or-Random (RoR) model”, supplemented by simulation techniques such as the “Scyther tool”. Additionally, a performance analysis comparison, encompassing security features, computation and communication costs, energy consumption, and execution time against other related frameworks, highlights the superiority of our approach.
+ER  - 
+
+TY  - JOUR
+T1  - An interactive framework to support decision-making for Digital Twin design
+AU  - Carlin, H M
+AU  - Goodall, P A
+AU  - Young, R I M
+AU  - West, A A
+JO  - Journal of Industrial Information Integration
+VL  - 41
+SP  - 100639
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 2452-414X
+DO  - https://doi.org/10.1016/j.jii.2024.100639
+UR  - https://www.sciencedirect.com/science/article/pii/S2452414X24000839
+KW  - Digital twin
+KW  - Decision-support
+KW  - Design framework
+KW  - Ontology
+AB  - Producing a Digital Twin (DT) involves many inter-linking decisions. Existing research tends to describe the parts of a DT and how they work, but not the decision-making that goes into building a DT nor the consideration of alternative design options. There is therefore a need for decision support to guide developers to create DTs efficiently while meeting functional requirements such as accuracy and interoperability. This paper presents an ontology-based decision support framework to achieve this need. Firstly an analysis of the decisions required to create a predictive maintenance DT for an automotive manufacturer is performed. The analysis found that each decision point produces an output by consideration of various influencing factors, such as time constraints, computation limits and the required fidelity of the model. The network of decisions is complex, with the outcomes of earlier decisions influencing later ones. An IDEF0 diagram was found to be a useful way to represent decisions, their dependencies and their cross-linking. This knowledge was used to populate an ontology of DT components for a predictive maintenance DT. The ability of an ontology to describe concepts explicitly using standardised vocabulary ensures the integrity of the decision-making guidance. A demonstration of the functionality of the ontology-based decision support framework was made before an evaluation of the concept. The research is a fundamental component in producing decision support for DT creators so that manufacturers can realise the benefits of a connected, responsive and flexible facility.
+ER  - 
+
+TY  - JOUR
+T1  - Mitigating cybercrimes in an evolving organizational landscape
+AU  - Yeboah-Ofori, Abel
+AU  - Opoku-Boateng, Francisca Afua
+JO  - Continuity & Resilience Review
+VL  - 5
+IS  - 1
+SP  - 53
+EP  - 78
+PY  - 2022
+DA  - 2022/12/26/
+SN  - 2516-7502
+DO  - https://doi.org/10.1108/CRR-09-2022-0017
+UR  - https://www.sciencedirect.com/science/article/pii/S2516750222000214
+KW  - Cybercrime
+KW  - Cyberattack
+KW  - Mitigations
+KW  - Cyber threat landscape
+KW  - Threat modeling
+KW  - Cybercrime mitigation framework
+AB  - Purpose
+Various organizational landscapes have evolved to improve their business processes, increase production speed and reduce the cost of distribution and have integrated their Internet with small and medium scale enterprises (SMEs) and third-party vendors to improve business growth and increase global market share, including changing organizational requirements and business process collaborations. Benefits include a reduction in the cost of production, online services, online payments, product distribution channels and delivery in a supply chain environment. However, the integration has led to an exponential increase in cybercrimes, with adversaries using various attack methods to penetrate and exploit the organizational network. Thus, identifying the attack vectors in the event of cyberattacks is very important in mitigating cybercrimes effectively and has become inevitable. However, the invincibility nature of cybercrimes makes it challenging to detect and predict the threat probabilities and the cascading impact in an evolving organization landscape leading to malware, ransomware, data theft and denial of service attacks, among others. The paper explores the cybercrime threat landscape, considers the impact of the attacks and identifies mitigating circumstances to improve security controls in an evolving organizational landscape.
+Design/methodology/approach
+The approach follows two main cybercrime framework design principles that focus on existing attack detection phases and proposes a cybercrime mitigation framework (CCMF) that uses detect, assess, analyze, evaluate and respond phases and subphases to reduce the attack surface. The methods and implementation processes were derived by identifying an organizational goal, attack vectors, threat landscape, identification of attacks and models and validation of framework standards to improve security. The novelty contribution of this paper is threefold: first, the authors explore the existing threat landscapes, various cybercrimes, models and the methods that adversaries are deploying on organizations. Second, the authors propose a threat model required for mitigating the risk factors. Finally, the authors recommend control mechanisms in line with security standards to improve security.
+Findings
+The results show that cybercrimes can be mitigated using a CCMF to detect, assess, analyze, evaluate and respond to cybercrimes to improve security in an evolving organizational threat landscape.
+Research limitations/implications
+The paper does not consider the organizational size between large organizations and SMEs. The challenges facing the evolving organizational threat landscape include vulnerabilities brought about by the integrations of various network nodes. Factor influencing these vulnerabilities includes inadequate threat intelligence gathering, a lack of third-party auditing and inadequate control mechanisms leading to various manipulations, exploitations, exfiltration and obfuscations.
+Practical implications
+Attack methods are applied to a case study for the implementation to evaluate the model based on the design principles. Inadequate cyber threat intelligence (CTI) gathering, inadequate attack modeling and security misconfigurations are some of the key factors leading to practical implications in mitigating cybercrimes.
+Social implications
+There are no social implications; however, cybercrimes have severe consequences for organizations and third-party vendors that integrate their network systems, leading to legal and reputational damage.
+Originality/value
+The paper’s originality considers mitigating cybercrimes in an evolving organization landscape that requires strategic, tactical and operational management imperative using the proposed framework phases, including detect, assess, analyze, evaluate and respond phases and subphases to reduce the attack surface, which is currently inadequate.
+ER  - 
+
+TY  - JOUR
+T1  - Cryptocurrencies trading using Parrondo’s Paradox
+AU  - Henrique, Bruno Miranda
+AU  - Santos, Eugene
+JO  - International Review of Economics & Finance
+SP  - 104859
+PY  - 2025
+DA  - 2025/12/19/
+SN  - 1059-0560
+DO  - https://doi.org/10.1016/j.iref.2025.104859
+UR  - https://www.sciencedirect.com/science/article/pii/S1059056025010226
+KW  - Cryptocurrencies
+KW  - Parrondo’s paradox
+KW  - Trading
+KW  - Game theory
+AB  - Cryptocurrencies market capitalization has surpassed $4 trillion in 2025, attracting individual and institutional traders seeking investment and speculation. However, volatility of cryptocurrencies prices makes profitable strategies a huge challenge, especially with respect to the variance of returns. In this context, this paper presents an innovative strategy based on the counterintuitive concept from Game Theory called Parrondo’s Paradox. The presented strategy results in improved capital gains (returns) when compared to traditional buy & hold. Also, the strategy is proven to work in daily, weekly and minute-by-minute timeframes. With the empirical results shown in this paper, the Parrondo’s Paradox framework can be used as a trading strategy by either individual or institutional investors.
+ER  - 
+
+TY  - JOUR
+T1  - Fusing consensus knowledge: A federated learning method for fault diagnosis via privacy-preserving reference under domain shift
+AU  - Li, Baoxue
+AU  - Song, Pengyu
+AU  - Zhao, Chunhui
+JO  - Information Fusion
+VL  - 106
+SP  - 102290
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2024.102290
+UR  - https://www.sciencedirect.com/science/article/pii/S156625352400068X
+KW  - Federated fault diagnosis
+KW  - Information fusion
+KW  - Domain shifts
+KW  - Privacy preservation
+KW  - Domain generalization
+AB  - Recently, federated fault diagnosis has garnered growing attention due to its promising capabilities in information fusion with privacy preservation. However, most of the existing approaches are based on the assumptions of no domain shift between multiple factories and no unseen domains for online applications. In actual industry, these assumptions are generally unsatisfied due to prominent environmental noises, mechanical wear, and changes in working conditions. Federated models that ignore domain shifts would face the negative aggregation problem and are not robust to unseen domains. To solve the domain shift problem, a federated domain generalization method is proposed for privacy-preserving fault diagnosis in this article. The key idea is to construct a sharable reference domain in cloud, which can convert the privacy-risky centralized alignment problem into a privacy-preserving pairwise alignment problem. Based on the recognition that any fault category in a discriminative feature space can be characterized by a particular position and volatility, we design a shareable domain generator to provide a reference for pairwise alignment. Then, the non-deterministic sampling and non-parametric alignment criterion are introduced to realize local domain alignment, which facilitates the domain-invariant feature extraction. Finally, by the alternation of local domain alignment and global reference synchronization, the alignment of multi-source domains is achieved implicitly. We give convergence guarantees for the proposed method and derive the generalization error bound of federated DG, which illustrates the positive effect of the proposed method on improving generalization. Experiments on two cases demonstrate the consistent superior generalization performance of our method without the risk of data leakage.
+ER  - 
+
+TY  - JOUR
+T1  - Preventing the money laundering and terrorist financing risks of emerging technologies: An international policy Delphi study
+AU  - Akartuna, Eray Arda
+AU  - Johnson, Shane D.
+AU  - Thornton, Amy
+JO  - Technological Forecasting and Social Change
+VL  - 179
+SP  - 121632
+PY  - 2022
+DA  - 2022/06/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2022.121632
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162522001640
+KW  - Money laundering
+KW  - Terrorist financing
+KW  - Financial technology
+KW  - Cryptocurrency
+KW  - New payment methods
+KW  - Transaction monitoring
+AB  - Financial innovation and technological advances are growing at a pace unrivalled by any other period in history. However, as more stakeholders enter these markets, criminals are exploiting their inadvertent security deficiencies to launder illicit funds or finance terrorism. This three-round policy Delphi study involved consultations with 52 experts from different industries and countries to understand future risk-prone technological developments, possible prevention measures and relevant stakeholders. Results highlight a range of money laundering and terrorist financing risks being enabled by advances in distributed ledger technologies (predominantly through cryptocurrencies), new payment methods and financial technology (FinTech). These threats include privacy-enhanced cryptoassets, transaction laundering, e-currencies and digital-only financial services. Findings also suggest that detection-based countermeasures (currently the primary preventative approach) can be coupled with more diverse countermeasures to increase effectiveness. However, the unique circumstances and constraints specific to different stakeholders will affect the nature, utility, and extent to which they can implement certain countermeasures. As such, a ‘one-size-fits-all’ approach to prevention is undesirable. Drawing on expert insight from the study, we propose a framework and a 3-point standard of implementation to motivate cost-effective, user-friendly, and innovation-friendly measures to improve suspicious activity detection and futureproof technologies before their criminal exploitation becomes mainstream.
+ER  - 
+
+TY  - JOUR
+T1  - Team performance in a series of regional and national US cybersecurity defense competitions: Generalizable effects of training and functional role specialization
+AU  - La Fleur, Claire
+AU  - Hoffman, Blaine
+AU  - Gibson, C. Benjamin
+AU  - Buchler, Norbou
+JO  - Computers & Security
+VL  - 104
+SP  - 102229
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2021.102229
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404821000535
+KW  - Cybersecurity skills
+KW  - Cyber defense exercise
+KW  - Performance assessment
+KW  - Training
+KW  - Competition
+KW  - Role composition
+KW  - Functional team cognition
+KW  - Scenario events
+KW  - Bayesian modeling
+KW  - Capability development
+AB  - A critical component to any modern cybersecurity endeavor is effective use of its human resources to secure networks, maintain services and mitigate adversarial events. Despite the importance of the human cyber- analyst and operator to cybersecurity, there has not been a corresponding rise in data-driven analytical approaches for understanding, evaluating, and improving the effectiveness of cybersecurity teams as a whole. Fortunately, cyber defense competitions are well-established and provide a critical window into what makes a cybersecurity team more or less effective. We examined data collected at the national finals and four regional events of the Collegiate Cyber Defense Competition and posited that experience, access to simulation-based training, and functional role composition by the teams would predict team performance on four scoring dimensions relevant to the application of information assurance skills and defensive cyber operations: (a) maintaining services, (b) help-desk customer support, (c) handling scenario injects, and (d) mitigating red team attacks. Bayesian analysis highlighted that experience was a strong predictor of service availability, scenario injects, and red team defense. Simulation training was also associated with good performance along these scoring dimensions. High-performing and experienced teams clustered with one another based on the functional role composition of team skills. These results are discussed within the context of stages of team development, the efficacy of challenge-based learning events, and reinforce previous analytical results from cyber competitions.
+ER  - 
+
+TY  - JOUR
+T1  - Multi-Cloud Adoption Challenges for the Cloud-Native Era:
+AU  - Chelliah, Pethuru Raj
+AU  - Surianarayanan, Chellammal
+JO  - International Journal of Cloud Applications and Computing
+VL  - 11
+IS  - 2
+PY  - 2021
+DA  - 2021/01/01/
+SN  - 2156-1834
+DO  - https://doi.org/10.4018/IJCAC.2021040105
+UR  - https://www.sciencedirect.com/science/article/pii/S2156183421000024
+KW  - Cloud Broker
+KW  - Container Orchestration
+KW  - Deployment and Management
+KW  - Enterprise DevOps
+KW  - Hybrid Clouds
+KW  - Identity and Access Management
+KW  - Microservices-Centric Applications
+KW  - Multi-Cloud Delivery
+AB  - ABSTRACT
+With the ready availability of appropriate technologies and tools for crafting hybrid clouds, the move towards employing multiple clouds for hosting and running various business workloads is garnering subtle attention. The concept of cloud-native computing is gaining prominence with the faster proliferation of microservices and containers. The faster stability and maturity of container orchestration platforms also greatly contribute towards the cloud-native era. This paper guarantees the following contributions: 1) It describes the key motivations for multi-cloud concept and implementations. 2) It also highlights various key drivers of the multi-cloud paradigm. 3) It presents a brew of challenges that are likely to occur while setting up multi-cloud. 4) It elaborates the proven and potential solution approaches to solve the challenges. The technology-inspired and tool-enabled solution approaches significantly simplify and speed up the adoption of the fast-emerging and evolving multi-cloud concept in the cloud-native era.
+ER  - 
+
+TY  - JOUR
+T1  - Secure transmission of medical images in multi-cloud e-healthcare applications using data hiding scheme
+AU  - Devi, K. Jyothsna
+AU  - Singh, Priyanka
+AU  - Dash, Jatindra Kumar
+AU  - Thakkar, Hiren Kumar
+AU  - Tanwar, Sudeep
+AU  - Alabdulatif, Abdulatif
+JO  - Journal of Information Security and Applications
+VL  - 79
+SP  - 103655
+PY  - 2023
+DA  - 2023/12/01/
+SN  - 2214-2126
+DO  - https://doi.org/10.1016/j.jisa.2023.103655
+UR  - https://www.sciencedirect.com/science/article/pii/S2214212623002399
+KW  - Multi - cloud
+KW  - Reversible data hiding
+KW  - NMI
+KW  - Interpolation
+KW  - Cloud security
+KW  - Medical image watermarking
+KW  - Security
+AB  - In recent years, medical image transmission using a multi-cloud system has played a significant role in e-Healthcare infrastructure. It allows medical practitioners to easily store, retrieve, and share patients’ medical information across multiple stakeholders. However, multi-cloud image transmission may be vulnerable to multiple security breaches, such as authentication, confidentiality, and security issues. Motivated by these issues, this paper proposes a data-hiding scheme for secure medical image transmission in a multi-cloud environment. The proposed scheme ensures imperceptible robustness and watermark security at a low computational cost. Here, the medical image is divided into a number of shares using Neighbor Mean Interpolation (NMI). To achieve confidentiality, Electronic Patient Healthcare Record (EPHR) is encrypted using Double Scan Pixel Position Shuffling (DSPPS) approach. Then, the encrypted EPHR is divided into shares and embedded in the cover medical image shares. Finally, a minimum of 50% of watermarked image shares are utilized to retrieve the original medical image and encrypted EPHR, consequently reducing multi-cloud latency and computational burden. Experimental results show that the proposed scheme shows high imperceptibility, robustness, and watermark security at a low computational cost. Comparative analysis with some of the recent popular data hiding schemes shows that the proposed scheme has improved imperceptibility and robustness by 10%–15% (approximately) with higher watermark security at a low computational cost.
+ER  - 
+
+TY  - JOUR
+T1  - Threat modeling framework for mobile communication systems
+AU  - Rao, Siddharth Prakash
+AU  - Chen, Hsin-Yi
+AU  - Aura, Tuomas
+JO  - Computers & Security
+VL  - 125
+SP  - 103047
+PY  - 2023
+DA  - 2023/02/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2022.103047
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404822004394
+KW  - Threat modeling
+KW  - Security framework
+KW  - Mobile communication
+AB  - This paper presents a domain-specific threat-modeling framework for the cellular mobile networks. We survey known attacks against mobile communication and organize them into attack phases, tactical objectives, and techniques. The Bhadra framework aims to provide a structured way to analyze and communicate threats on a level that abstracts away the technical details but still provides meaningful insights into the adversarial behavior. Our goals are similar to existing threat modeling frameworks for enterprise information systems, but with a focus on mobile operator networks. The framework fills a gap that has existed in tools and methodology for sharing of threat intelligence within and between organizations in the telecommunications industry. The paper includes concrete case studies of applying the framework. It can also be read as a survey of attacks against mobile networks. CCS CONCEPTS Security and privacy → Security requirements; Mobile and wireless security; Networks→ Networks Mobile networks
+ER  - 
+
+TY  - JOUR
+T1  - Strategic cybersecurity
+AU  - AlDaajeh, Saleh
+AU  - Alrabaee, Saed
+JO  - Computers & Security
+VL  - 141
+SP  - 103845
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2024.103845
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404824001469
+KW  - National cybersecurity
+KW  - Strategic cybersecurity challenges
+KW  - Cyberpower indices
+KW  - Cybersecurity maturity indices
+KW  - Strategic cybersecurity
+AB  - In the contemporary ever-evolving digital landscape, the paramount importance of fortifying national cybersecurity for safeguarding national security is unequivocal. Cybersecurity stands as a critically strategic field, demanding in-depth strategic planning. This research delves into the complexities of cybersecurity strategy, evaluation, and its myriad challenges, moving beyond conventional methodologies to illuminate this essential sector. A key contribution of our work is the creation of an innovative taxonomy that precisely classifies and categorizes strategic cybersecurity challenges, thereby enriching the discipline's lexicon and deepening the understanding of the cybersecurity environment. Additionally, this study conducts a thorough review of prevailing guidelines, models, standards, and frameworks for the assessment of cybersecurity, its maturity, and cyber power, rendering this research indispensable for decision-makers. It also methodically examines and presents a mathematical formulation for assessment indices. This provision of critical insights supports the crafting of holistic and adaptable cybersecurity strategies, promoting a robust cyber ecosystem. Consequently, nations are better positioned to adeptly manage the shifting sands of cyber threats, bolstering their global cybersecurity stature and ensuring the protection of national and international digital security interests.
+ER  - 
+
+TY  - JOUR
+T1  - Manufacturing cybersecurity threat attributes and countermeasures: Review, meta-taxonomy, and use cases of cyberattack taxonomies
+AU  - Rahman, Md Habibor
+AU  - Wuest, Thorsten
+AU  - Shafae, Mohammed
+JO  - Journal of Manufacturing Systems
+VL  - 68
+SP  - 196
+EP  - 208
+PY  - 2023
+DA  - 2023/06/01/
+SN  - 0278-6125
+DO  - https://doi.org/10.1016/j.jmsy.2023.03.009
+UR  - https://www.sciencedirect.com/science/article/pii/S0278612523000602
+KW  - Cybersecurity
+KW  - Smart manufacturing
+KW  - Industry 4.0
+KW  - Cyber-physical systems
+KW  - Cyberattacks
+KW  - Risk mitigation
+AB  - The threat of cyberattacks on smart manufacturing systems has been rapidly growing with the potential for a multitude of different attack types, varying from traditional espionage to sabotaging physical assets and products. A thorough and systematic understanding of the different elements of cyberattacks, from motivation to potential consequences and respective countermeasures, is a crucial stepping-stone towards proactive management of manufacturing cybersecurity risks. This understanding is essential for developing the necessary tools to identify, prevent, detect, diagnose, and mitigate cyberattacks. In response, several attack taxonomies have been proposed in the literature as methods for recognizing and categorizing various attributes of cyberattacks, including potential attack vectors/methods, targets/locations, and consequences. However, those taxonomies only cover selected attack attributes depending on the research focus, sometimes accompanied by inconsistent naming and definitions. These seemingly different taxonomies often overlap and can complement each other to create a comprehensive knowledge base of cyberattack attributes that is currently missing in the literature. Additionally, there is a missing link from creating structured knowledge by using a taxonomy to applying this structure for cybersecurity tools development and aiding practitioners in using it. To tackle these challenges, first, this article reviews and analyzes current taxonomical classifications of manufacturing cybersecurity threat attributes and countermeasures, as well as the proliferation of the scope and coverage in current taxonomies. As a result, these taxonomies are compiled into a more comprehensive and consistent meta-taxonomy for the smart manufacturing space. The resulting meta-taxonomy provides a holistic analysis of current taxonomies and integrates them into a unified structure. Based on this structure, this paper identifies gaps in current attack taxonomies and provides directions for future improvements. Finally, the paper introduces potential use cases for attack taxonomies in smart manufacturing systems for assessing security threats and their associated risks, devising risk mitigation strategies, and informing the application of cybersecurity frameworks.
+ER  - 
+
+TY  - JOUR
+T1  - A Compendium on Risk Assessment of Phishing Attack Using Attack Modeling Techniques
+AU  - Lohiya, Ritika
+AU  - Thakkar, Ankit
+JO  - Procedia Computer Science
+VL  - 235
+SP  - 1105
+EP  - 1114
+PY  - 2024
+DA  - 2024/01/01/
+T2  - International Conference on Machine Learning and Data Engineering (ICMLDE 2023)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.04.105
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924007816
+KW  - Attack Modeling
+KW  - Phishing attack
+KW  - Risk Assessment
+KW  - Attack Graphs
+KW  - Diamond Model
+KW  - Kill Chain
+AB  - With the advent of new attacking methodologies and types of attacks, it has become difficult to protect the systems. Therefore, it is necessary to decipher the impact of attacks before and after its occurrence to provide better security. It is hard to speculate future attacks, without understanding the network vulnerability and therefore, it is important to examine the network for identifying potential vulnerabilities using attack modeling. Phishing attacks is one of the prominent network attacks that pose continual threat to the network and organization. This article presents and discusses in brief attack modeling techniques that can be applied for risk assessment. The paper presents in detail modeling of phishing attack using attack graphs, cyber kill chain, diamond model, security incident response matrix, and data description model. Moreover, the article also discusses role of network defenders and system engineers in assessing risk and how attack models can be helpful to them for modeling attacks. The review presented in this paper can serve as a platform for researchers in the field of network security and risk assessment for developing effective and secure network environment.
+ER  - 
+
+TY  - JOUR
+T1  - Oblivious and distributed firewall policies for securing firewalls from malicious attacks
+AU  - Allami, Ali
+AU  - Nicewarner, Tyler
+AU  - Goss, Ken
+AU  - Kundu, Ashish
+AU  - Jiang, Wei
+AU  - Lin, Dan
+JO  - Computers & Security
+VL  - 150
+SP  - 104201
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2024.104201
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404824005066
+KW  - Privacy-preserving
+KW  - Secure multiparty computation
+KW  - Secure firewall
+AB  - Firewalls are effective in preventing attacks initiated from outside of an organization’s network, but they are vulnerable to external threats, e.g. ransomware attacks may expose sensitive firewall data to malicious entities or disable network protection from the firewall. In this paper, we present Obliv-FW: a novel distributed architecture and a suite of protocols to obliviously manage and evaluate firewall rules and policies to prevent external attacks oriented to the firewall data. Obliv-FW alleviates this issue by obfuscating the blacklist or whitelist and distributing the function of evaluating these lists across multiple servers residing in different access control zones of the organization’s internal network. Thus, both accessing and altering the rules are considerably more difficult thereby providing better protection to the local network as well as greater security for the firewall itself. Obliv-FW is developed by leveraging the existing secure multi-party computation techniques. Our empirical results show that the overhead of Obliv-FW is small, and it can be a very valuable tool to mitigate the ever-increasing threats to a private network from external attacks including ransomware attacks.
+ER  - 
+
+TY  - JOUR
+T1  - Zero trust in cybersecurity: managing critical challenges for effective implementation
+AU  - Pigola, Angelica
+AU  - Meirelles, Fernando de Souza
+JO  - Journal of Systems and Information Technology
+VL  - 27
+IS  - 4
+SP  - 517
+EP  - 564
+PY  - 2025
+DA  - 2025/04/15/
+SN  - 1328-7265
+DO  - https://doi.org/10.1108/JSIT-08-2024-0326
+UR  - https://www.sciencedirect.com/science/article/pii/S1328726525000102
+KW  - Zero trust
+KW  - Cybersecurity
+KW  - Management
+KW  - Trust paradigm
+AB  - Purpose
+This study investigates the challenges of adopting Zero Trust (ZT) as a security strategy in contemporary organizations, where traditional security measures are insufficient. This paper aims to provide a robust and objective framework for managing ZT implementation through an integrated approach.
+Design/methodology/approach
+An expert panel of 29 professionals contributed to identifying and weighting key management criteria for ZT adoption. This study used fuzzy Delphi to achieve consensus and the CRITIC (Criteria Importance through Intercriteria Correlation) method to ensure objectivity in determining criteria importance.
+Findings
+The results reveal four critical dimensions – culture, operations and processes, compliance, and investments – along with 33 specific criteria essential for successful ZT implementation. This study highlights the potential for reversal of rank under dynamic decision-making conditions, emphasizing the necessity for continuous refinement and adaptation.
+Practical implications
+The insights derived from this research offer valuable guidance for security leaders, professionals and consultants in navigating the complexities of ZT adoption. By addressing managerial challenges and providing a structured approach, this study contributes to a smoother transition from traditional cybersecurity models to ZT frameworks.
+Originality/value
+This research offers a novel contribution to ZT management by applying an innovative, management-centered methodology to systematically identify and prioritize the critical challenges involved. It provides a structured framework that enables security managers to prioritize critical areas – cultural, financial, operational and compliance – essential for the successful implementation of ZT.
+ER  - 
+
+TY  - JOUR
+T1  - Defending digital supply chains: Evidence from a decade-long research program
+AU  - Boyson, Sandor
+AU  - Corsi, Thomas M.
+AU  - Paraskevas, John-Patrick
+JO  - Technovation
+VL  - 118
+SP  - 102380
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 0166-4972
+DO  - https://doi.org/10.1016/j.technovation.2021.102380
+UR  - https://www.sciencedirect.com/science/article/pii/S0166497221001619
+KW  - Digital supply chains
+KW  - Internet of things (IoT)
+KW  - Cybersecurity
+KW  - Risk management
+KW  - Cyber supply chain risk management (C-SCRM)
+AB  - Digital Supply Chains (DSCs) are highly integrated global internet communities of customers, distributors, producers, and suppliers. DSCs have increasingly incorporated Internet of Things (IoT) innovations such as field sensors and real time condition monitoring; and have served as effective platforms for IoT technology diffusion. However, as IoT has become more pervasive, pushing the edges of networks further out, new cyber threat windows have opened everywhere. More recently, Cyber-Supply Chain Risk Management (C-SCRM) has emerged as a critical discipline combining expertise from cybersecurity, supply chain management and enterprise risk management; and designed to stem the proliferation of digital supply chain attacks seeking illicit access to corporate networks for competitive espionage, financial and intellectual property theft, and disruption of operations. Yet to date, there has been little evidence that C-SCRM practices are actually effective in containing all or even some types of breaches. Our decade-long research provides the first statistical analysis of the effects on an organization’s breach profile based on the extent of its adoption of policies and practices defined within the U.S. National Institute of Standards and Technology (NIST) ‘s Cybersecurity Framework, increasingly the de-facto global C-SCRM standard. Our analysis determined that there were specific Framework activity areas and sets of policies/practices within those activity areas that strongly correlated with more effective control of specific breach types. Our findings lay the foundation for an evidence-based approach to mastering IT network vulnerabilities and defending global digital supply chains.
+ER  - 
+
+TY  - JOUR
+T1  - Decoding dependencies among the risk factors influencing maritime cybersecurity: Lessons learned from historical incidents in the past two decades
+AU  - Mohsendokht, Massoud
+AU  - Li, Huanhuan
+AU  - Kontovas, Christos
+AU  - Chang, Chia-Hsun
+AU  - Qu, Zhuohua
+AU  - Yang, Zaili
+JO  - Ocean Engineering
+VL  - 312
+SP  - 119078
+PY  - 2024
+DA  - 2024/11/15/
+SN  - 0029-8018
+DO  - https://doi.org/10.1016/j.oceaneng.2024.119078
+UR  - https://www.sciencedirect.com/science/article/pii/S0029801824024168
+KW  - Maritime security
+KW  - Cyber-attacks
+KW  - Bayesian network
+KW  - Risk analysis
+KW  - Cybersecurity
+AB  - The distinctive features of maritime infrastructures present significant challenges in terms of security. Disruptions to the normal functioning of any part of maritime transportation can have wide-ranging consequences at both national and international levels, making it an attractive target for malicious attacks. Within this context, the integration of digitalization and technological advancements in seaports, vessels and other maritime elements exposes them to cyber threats. In response to this critical challenge, this paper aims to formulate a novel cybersecurity risk analysis method for ensuring maritime security. This approach is based on a data-driven Bayesian network, utilizing recorded cyber incidents spanning the past two decades. The findings contribute to the identification of highly significant contributing factors, a meticulous examination of their nature, the revelation of their interdependencies, and the estimation of their probabilities of occurrence. Rigorous validation of the developed model ensures its robustness for both diagnostic and prognostic purposes. The implications drawn from this study offer valuable insights for stakeholders and governmental bodies, enhancing their understanding of how to address cyber threats affecting the maritime industry. This knowledge aids in the implementation of necessary preventive measures.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing cybersecurity situation awareness through visualization: A USB data exfiltration case study
+AU  - Chung, Mu-Huan (Miles)
+AU  - Yang, Yuhong (Alisha)
+AU  - Wang, Lu
+AU  - Cento, Greg
+AU  - Jerath, Khilan
+AU  - Taank, Parwinder
+AU  - Raman, Abhay
+AU  - Chan, Jonathan H.
+AU  - Chignell, Mark H.
+JO  - Heliyon
+VL  - 9
+IS  - 1
+SP  - e13025
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 2405-8440
+DO  - https://doi.org/10.1016/j.heliyon.2023.e13025
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844023002323
+KW  - Security visualization
+KW  - Situation awareness
+KW  - Data exfiltration
+KW  - Collaborative dashboard
+AB  - Employees who have legitimate access to an organization's data may occasionally put sensitive corporate data at risk, either carelessly or maliciously. Ideally, potential breaches should be detected as soon as they occur, but in practice there may be delays, because human analysts are not able to recognize data exfiltration behaviors quickly enough with the tools available to them. Visualization may improve cybersecurity situation awareness. In this paper, we present a dashboard application for investigating file activity, as a way to improve situation awareness. We developed this dashboard for a wide range of stakeholders within a large financial services company. Cybersecurity experts/analysts, data owners, team leaders/managers, high level administrators, and other investigators all provided input to its design. The use of a co-design approach helped to create trust between users and the new visualization tools, which were built to be compatible with existing work processes. We discuss the user-centered design process that informed the development of the dashboard, and the functionality of its three inter-operable monitoring dashboards. In this case three dashboards were developed covering high-level overview, file volume/type comparison, and individual activity, but the appropriate number and type of dashboards to use will likely vary according to the nature of the detection task). We also present two use cases with usability results and preliminary usage data. The results presented examined the amount of use that the dashboards received as well as measures obtained using the Technology Acceptance Model (TAM). We also report user comments about the dashboards and how to improve them.
+ER  - 
+
+TY  - JOUR
+T1  - Federated Learning for Enablement of Digital Twin
+AU  - Patwardhan, Amit
+AU  - Thaduri, Adithya
+AU  - Karim, Ramin
+AU  - Castano, Miguel
+JO  - IFAC-PapersOnLine
+VL  - 55
+IS  - 2
+SP  - 114
+EP  - 119
+PY  - 2022
+DA  - 2022/01/01/
+T2  - 14th IFAC Workshop on Intelligent Manufacturing Systems IMS 2022
+SN  - 2405-8963
+DO  - https://doi.org/10.1016/j.ifacol.2022.04.179
+UR  - https://www.sciencedirect.com/science/article/pii/S240589632200180X
+KW  - Digital twin
+KW  - federated learning
+KW  - LiDAR
+KW  - point cloud
+KW  - railway catenary
+AB  - Creation, maintenance, and update of digital twins are costly and time-consuming mechanisms. The required effort can be optimized with the use of LiDAR technologies, which support the process of collecting data related to spatial information such as location, geometry, and position. Sharing such data in multi-stakeholder environments is hindered due to competition, confidentiality, and security requirements. Multi-stakeholder environments favor the use of decentralized creation and update mechanisms with reduced data exchange. Such mechanisms are facilitated by Federated Learning, where the learning process is performed at the data owner’s location. Two case studies are presented in this paper, where LiDAR is used to extract information from industrial equipment as a part of the creation of a digital twin.
+ER  - 
+
+TY  - JOUR
+T1  - The Agile Incident Response for Industrial Control Systems (AIR4ICS) framework
+AU  - Smith, Richard
+AU  - Janicke, Helge
+AU  - He, Ying
+AU  - Ferra, Fenia
+AU  - Albakri, Adham
+JO  - Computers & Security
+VL  - 109
+SP  - 102398
+PY  - 2021
+DA  - 2021/10/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2021.102398
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404821002224
+KW  - Incident response
+KW  - Agile
+KW  - Industrial control systems
+KW  - SCADA: Threat hunting
+AB  - Cyber incident response within Industrial Control Systems (ICS) is characterised by high levels of uncertainty and unpredictability and requires a multi-disciplined team that encompasses personnel business operations, Operational Technology (OT), IT, security operations and media engagement to be effective. Such teams require a dynamic decision framework to allow ICS operators to maintain services during the recovery of full operating capability. There is empirical evidence that static incident response playbooks do not provide enough flexibility in their definition to support situations outside of the scope of their initial definition, and that they have been ignored when cyber incidents have occurred. A thematic analysis of semi-structured interviews with ICS incident response professional identified three main areas of concern: communication, information sharing between knowledge areas, and achieving external buy-in. The Agile Incident Response for Industrial Control Systems (AIR4ICS) framework has been developed to integrate Agile techniques into the Cyber Security domain of incident response. AIR4ICS provides a dynamic approach to improve situational awareness, information sharing, collective decision-making and response flexibility within the unique context of ICS. The techniques used in AIR4ICS were initially shaped by interviews with professionals with experience of protecting ICS, structured using the Scrum methodology, and refined through a series of Cyber Incident Response exercises with Incident Response professionals facing-off against specialist ICS Red Teams. AIR4ICS has resulted in a framework that provides a modular approach that can be adapted to fit the working practices, skillsets and priorities of individual organisations. The framework improves communication, promotes information sharing between knowledge areas, and increases external buy-in. Ultimately, AIR4ICS provides a dynamic decision framework that allows Incident Response Teams to manage uncertainty and unpredictability to reduce the time taken to restore normal operations.
+ER  - 
+
+TY  - JOUR
+T1  - Towards a cybersecurity-oriented research agenda for digital sovereignty
+AU  - Katsikas, Sokratis K.
+JO  - Procedia Computer Science
+VL  - 254
+SP  - 279
+EP  - 288
+PY  - 2025
+DA  - 2025/01/01/
+T2  - International Conference on Digital Sovereignty (ICDS)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.02.087
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925004375
+KW  - Digital sovereignty
+KW  - cybersecurity
+KW  - research agenda
+KW  - innovation
+AB  - The term "digital sovereignty" has emerged as a means of promoting the notion of leadership and strategic autonomy in the digital field. Digital sovereignty refers to a nation’s or a group of nations’ ability to act independently in the digital world and should be understood as encompassing both protective mechanisms and offensive tools that drive digital innovation. This perspective highlights the intrinsic connection between digital sovereignty and cybersecurity. Even though policy, political and legislative aspects of digital sovereignty are in the forefront of public discourse and the research literature on these issues is increasing, cybersecurity-oriented research for digital sovereignty is only starting. In this paper we discuss the relationship between selected fields of research in cybersecurity, such as Digital Trust, Privacy, Cyber Resilience, Digital Supply Chain Security on one hand, and Digital Sovereignty on the other, in an attempt to outline priority themes and topics of a possible cybersecurity-oriented research and innovation agenda for digital sovereignty.
+ER  - 
+
+TY  - JOUR
+T1  - Port-Based Pre-Authentication Message Transmission Scheme
+AU  - Yu, Sunghyun
+AU  - Won, Yoojae
+JO  - CMES - Computer Modeling in Engineering and Sciences
+VL  - 143
+IS  - 3
+SP  - 3943
+EP  - 3980
+PY  - 2025
+DA  - 2025/06/30/
+SN  - 1526-1492
+DO  - https://doi.org/10.32604/cmes.2025.064997
+UR  - https://www.sciencedirect.com/science/article/pii/S1526149225001821
+KW  - Port knocking
+KW  - single packet authorization
+KW  - pre-authentication
+KW  - zero trust
+KW  - network security
+KW  - HMAC
+KW  - authentication
+KW  - AIoT security
+AB  - Pre-Authentication and Post-Connection (PAPC) plays a crucial role in realizing the Zero Trust security model by ensuring that access to network resources is granted only after successful authentication. While earlier approaches such as Port Knocking (PK) and Single Packet Authorization (SPA) introduced pre-authentication concepts, they suffer from limitations including plaintext communication, protocol dependency, reliance on dedicated clients, and inefficiency under modern network conditions. These constraints hinder their applicability in emerging distributed and resource-constrained environments such as AIoT and browser-based systems. To address these challenges, this study proposes a novel port-sequence-based PAPC scheme structured as a modular model comprising a client, server, and ephemeral Key Management System (KMS). The system employs the Advanced Encryption Standard (AES-128) to protect message confidentiality and uses a Hash-Based Message Authentication Code (HMAC-SHA256) to ensure integrity. Authentication messages are securely fragmented and mapped to destination port numbers using a signature-based avoidance algorithm, which prevents collisions with unsafe or reserved port ranges. The server observes incoming port sequences, retrieves the necessary keys from the KMS, reconstructs and verifies the encrypted data, and conditionally updates firewall policies. Unlike SPA, which requires decrypting all incoming payloads and imposes server-side overhead, the proposed system verifies only port-derived fragments, significantly reducing computational burden. Furthermore, it eliminates the need for raw socket access or custom clients, supporting browser-based operation and enabling protocol-independent deployment. Through a functional web-based prototype and emulated testing, the system achieved an F1-score exceeding 95% in detecting unauthorized access while maintaining low resource overhead. Although port sequence generation introduces some client-side cost, it remains lightweight and scalable. By tightly integrating lightweight cryptographic algorithms with a transport-layer communication model, this work presents a conceptually validated architecture that contributes a novel direction for interoperable and scalable Zero Trust enforcement in future network ecosystems.
+ER  - 
+
+TY  - JOUR
+T1  - Seamless privacy-preservation and authentication framework for IoT-enabled smart eHealth systems
+AU  - Deebak, B D
+AU  - Memon, Fida Hussain
+AU  - Cheng, Xiaochun
+AU  - Dev, Kapal
+AU  - Hu, Jia
+AU  - Khowaja, Sunder Ali
+AU  - Qureshi, Nawab Muhammad Faseeh
+AU  - Choi, Kyung Huyn
+JO  - Sustainable Cities and Society
+VL  - 80
+SP  - 103661
+PY  - 2022
+DA  - 2022/05/01/
+SN  - 2210-6707
+DO  - https://doi.org/10.1016/j.scs.2021.103661
+UR  - https://www.sciencedirect.com/science/article/pii/S2210670721009240
+KW  - Digital application
+KW  - Internet of Things
+KW  - Massive sensor networks
+KW  - Privacy-preserving
+KW  - Cloud networks
+AB  - The initiatives of sustainable urbanization use ICT-based innovation to improve service efficiencies of smart cities and to discover modern economic opportunities. The smart sustainable cities prefer a reliable IoT connectivity and data integration to meet the standard constraints of emerging computing paradigms with enabling techhnologies. The computing paradigms including cloud, fog, and edge are nowadays driving the technological advancement to enrich the features of the digital application (DApp) including interactive, intuitive, and personalized. DApp utilizes the essential characteristics of the enabling technologies such as heterogeneity, resource constraints, connectivity, and mobility to standardize the nature of smart intelligence via service agents. In the connection of massive IoT services, DApp involves continuous generation of IoT data over a dedicated gateway to offer extensive connectivity and improved access control. In the past, most of the existing mechanisms have primarily focused on security management for IoT networks to operate massive application services. However, a key issue of privacy-preserving for massive IoT is still challenging to ensure device protection. Importantly, the existing mechanisms fail to claim security efficiencies in terms of user anonymity and authentication key exchange using formal proof. Thus, this paper presents a seamless authentication framework with privacy-preserving (SAF-PP) protocol to deal with security and privacy issues of smart eHealth intelligence. The formal analysis proves that the proposed SAF-PP can adhere to significant security properties while improving the system efficiency rate. The performance analysis also shows that the proposed SAF-PP is more efficient in increasing the active users with an improved packet delivery ratio and network lifetime.
+ER  - 
+
+TY  - JOUR
+T1  - A Two-Phase Blockchain-Enabled Framework for Securing Internet of Medical Things Systems
+AU  - Fiaz, Kainat
+AU  - Zeb, Asim
+AU  - Hussain, Shahid
+AU  - Khurshid, Kinza
+AU  - Irshad, Reyazur Rashid
+AU  - Alharby, Maher
+AU  - Rahman, Taj
+AU  - Alwayle, Ibrahim M.
+AU  - Pallonetto, Fabiano
+JO  - Internet of Things
+VL  - 28
+SP  - 101335
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2024.101335
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660524002762
+KW  - Blockchain
+KW  - Internet of Medical Things
+KW  - Interplanetary file system
+KW  - Mounting attack
+KW  - Secure clustering
+KW  - Trust management
+AB  - The healthcare industry has witnessed a transformative impact due to recent advancements in sensing technology, coupled with the Internet of Medical Things (IoMTs)-based healthcare systems. Remote monitoring and informed decision-making have become possible by leveraging an integrated platform for efficient data analysis and processing, thereby optimizing data management in healthcare. However, this data is collected, processed, and transmitted across an interconnected network of devices, which introduces notable security risks and escalates the potential for vulnerabilities throughout the entire data processing pipeline. Traditional security approaches rely on computational complexity and face challenges in adequately securing sensitive healthcare data against evolving threats, thus necessitating robust solutions that ensure trust, enhance security, and maintain data confidentiality and integrity. To address these challenges, this paper introduces a two-phase framework that integrates blockchain technology with IoMT to enhance trust computation, resulting in a secure cluster that supports the quality-of-service (QoS) for sensitive data. The first phase utilizes the decentralized interplanetary file system and hashing functions to create a smart contract for device registration, establishing a resilient storage platform that encrypts data, improves fault tolerance, and facilitates data access. In the second phase, communication overhead is optimized by considering power levels, communication ranges, and computing capabilities alongside the smart contract. The smart contract evaluates the trust index and QoS of each node to facilitate device clustering based on processing capabilities. We implemented the proposed framework using OMNeT++ simulator and C++ programming language and evaluated against the cutting-edge IoMT security approaches in terms of attack detection, energy consumption, packet delivery ratio, throughput, and latency. The qualitative results demonstrated that the proposed framework enhanced attack detection by 6.00%, 18.00%, 20.00%, and 27.00%, reduced energy consumption by 6.91%, 8.19%, 12.07%, and 17.94%, improved packet delivery ratio by 3.00%, 6.00%, 9.00%, and 10.00%, increased throughput by 7.00%, 8.00%, 11.00%, and 13.00%, and decreased latency by 4.90%, 8.81%, 11.54%, and 20.63%, against state-of-the-art methods and was supported by statistical analysis.
+ER  - 
+
+TY  - JOUR
+T1  - Data management in Polish SMEs in the era of AI – threats and benefits of AI-based tools
+AU  - Chmielarz, Grzegorz
+JO  - Procedia Computer Science
+VL  - 246
+SP  - 5439
+EP  - 5447
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 28th International Conference on Knowledge Based and Intelligent information and Engineering Systems (KES 2024)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.09.681
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924027406
+KW  - cyberthreats
+KW  - cybersecurity
+KW  - Artificial Intelligence
+KW  - Small
+KW  - Medium-Sized Enterprises
+AB  - The primary goal of the article is to analyse whether the benefits of implementing AI-based solutions in the area of cybersecurity may be a sufficient stimulus for Polish Small and Medium-Sized Enterprises (SMEs) to decide for their adoption. With this view in mind, the author of the paper analyses recent legislative changes in the domain of data protection such as General Data Protection Regulation. Additionally, the need for legislative changes is highlighted in the light of ever increasing adoption of AI-based solutions in all types of organisations. Then, the research focus pertains to contemporary threats to data security in Polish SMEs, with a particular stress on the latest AI-based attacks. For this purpose data from national cybersecurity institutions are analysed to determine the most serious attacks aimed at Polish organisations. This is followed by the analysis of the defence potential of the investigated enterprises in terms of financial funds they spend on cybersecurity as well as persons in these organisations responsible for handling data protection issues. The next part of the paper is an analysis of the benefits stemming from application of AI-based tools in the cybersecurity domain. Its main objective is to find out the answer to the research question: What benefits stemming from application AI-based solutions can encourage Polish SMEs to make investments into these cybersecurity tools given their size and budget capacities)? The paper finishes with the conclusion and indication of potential further research avenues.
+ER  - 
+
+TY  - JOUR
+T1  - APT attacks on industrial control systems: A tale of three incidents
+AU  - Kumar, Rajesh
+AU  - Kela, Rohan
+AU  - Singh, Siddhant
+AU  - Trujillo-Rasua, Rolando
+JO  - International Journal of Critical Infrastructure Protection
+VL  - 37
+SP  - 100521
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 1874-5482
+DO  - https://doi.org/10.1016/j.ijcip.2022.100521
+UR  - https://www.sciencedirect.com/science/article/pii/S1874548222000129
+KW  - Threat modelling
+KW  - Stuxnet
+KW  - Triton
+KW  - Cyber security risk management
+KW  - Advanced Persistent threats
+KW  - Stuxnet 2.0
+KW  - Attack trees
+AB  - Modern-day industries are complex socio-technical entities. Understanding the risks associated with the operation of such systems requires proper consideration of budget constraints, security expertise and evaluating the effects of legacy services. A relatively newer and unorthodox form of cyber-attacks against such systems are Advanced Persistent Threats (APTs). APTs are resourceful and strategic, aiming at maximum damage by stalling critical services and stealing sensitive information. In this article, we demonstrate how attack trees can be used as a common language to model APT attacks in a practitioner-friendly manner. We do so by modelling three prominent APT attacks, namely Stuxnet, Blackenergy and Triton. Each attack is described in a systematic and structured way following the attack tree modelling language. We show that, because attack trees are compositional models, one can reuse them to model other complex attack scenarios. We illustrate this compositional feature by modelling attacks on an industrial oil-pipeline.
+ER  - 
+
+TY  - JOUR
+T1  - On the suitability of blockchain platforms for IoT applications: Architectures, security, privacy, and performance
+AU  - Brotsis, Sotirios
+AU  - Limniotis, Konstantinos
+AU  - Bendiab, Gueltoum
+AU  - Kolokotronis, Nicholas
+AU  - Shiaeles, Stavros
+JO  - Computer Networks
+VL  - 191
+SP  - 108005
+PY  - 2021
+DA  - 2021/05/22/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2021.108005
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128621001225
+KW  - Blockchain
+KW  - Consensus protocols
+KW  - Cyber-attacks
+KW  - Fault tolerance
+KW  - Internet of things
+KW  - Security
+KW  - Smart contracts
+KW  - Smart homes
+KW  - Performance
+KW  - Privacy
+AB  - Blockchain and distributed ledger technologies have received significant interest in various areas beyond the financial sector, with profound applications in the Internet of Things (IoT), providing the means for creating truly trustless and secure solutions for IoT applications. Taking into account the weak security defences that the majority of IoT devices have, it is critical that a blockchain-based solution targeting the IoT is not only capable of addressing the many challenges IoT is facing, but also does not introduce other defects, e.g. in terms of performance, making its adoption hard to achieve. This paper aims at addressing the above needs by providing a comprehensive and coherent review of the available blockchain solutions to determine their ability to meet the requirements and tackle the challenges of the IoT, using the smart home as the reference domain. Key architectural aspects of blockchain solutions, like the platforms’ software and network setups, the consensus protocols used, as well as smart contracts, are examined in terms of their ability to withstand various types of common IoT and blockchain attacks, deliver enhanced privacy features, and assure adequate performance levels while processing large amounts of transactions being generated in an IoT environment. The analysis carried out identified that the defences currently provided by blockchain platforms are not sufficient to thwart all the prominent attacks against blockchains, with blockchain 1.0 and 2.0 platforms being susceptible to the majority of them. On the other side, privacy related mechanisms are being supported, to varying degrees, by all platforms investigated; however, each of the them tackles specific only privacy aspects, thus rendering the overall privacy evaluation a challenging task which needs to be considered in an ad-hoc basis. If the underlying consensus protocols’ performance and fault tolerance is also considered, then only a small number of platforms meet the requirements of our reference IoT domain.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing security and trust using efficient privacy-preserving authentication in vehicular edge computing networks
+AU  - Ghani, Anwar
+AU  - Jan, Saeed Ullah
+AU  - Chaudhry, Shehzad Ashraf
+AU  - Ahmad, Rashid
+AU  - Das, Ashok Kumar
+AU  - Kim, Do Hyeun
+JO  - Vehicular Communications
+VL  - 54
+SP  - 100921
+PY  - 2025
+DA  - 2025/08/01/
+SN  - 2214-2096
+DO  - https://doi.org/10.1016/j.vehcom.2025.100921
+UR  - https://www.sciencedirect.com/science/article/pii/S2214209625000488
+KW  - Edge computing
+KW  - IoV
+KW  - Authentication
+KW  - Privacy
+KW  - Vulnerability
+KW  - Security
+KW  - Cryptography
+AB  - The Internet of Vehicles (IoV) requires advanced safety, security, and services in Intelligent Transportation Systems (ITS). Frequent broadcast message intervals and Dedicated Short-Range Communication (DSRC) make validating messages in such short timeframes extremely challenging. Additionally, current authentication protocols cannot meet the demands of the environment due to high communication and computational overheads. Furthermore, lightweight authentication proposals have been put forth to solve the problem; however, such attempts cannot provide a sophisticated solution that can handle advanced security needs and suffer from accuracy issues. This article presents a two-factor authentication protocol using lightweight cryptographic operations such as one-way hashing and exclusive OR (XOR) with acceptable efficiency and security. The identities are generated using Physically Unclonable Functions (PUFs), passwords, and randomized nonces to ensure two-factor authentication. The proposal is rigorously verified through formal security analysis, confirming that the protocol is untraceable, anonymous, protects key secrecy, and is resistant to well-known attacks in the IoV domain. The performance analysis confirms its robustness and reliability, with 43.31% low energy consumption in terms of computation, communication, and support for more security requirements, making it a feasible solution for the IoV domain.
+ER  - 
+
+TY  - JOUR
+T1  - A metaverse framework for IoT-based remote patient monitoring and virtual consultations using AES-256 encryption
+AU  - Mohammed, Zainab Khalid
+AU  - Mohammed, Mazin Abed
+AU  - Abdulkareem, Karrar Hameed
+AU  - Zebari, Dilovan Asaad
+AU  - Lakhan, Abdullah
+AU  - Marhoon, Haydar Abdulameer
+AU  - Nedoma, Jan
+AU  - Martinek, Radek
+JO  - Applied Soft Computing
+VL  - 158
+SP  - 111588
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 1568-4946
+DO  - https://doi.org/10.1016/j.asoc.2024.111588
+UR  - https://www.sciencedirect.com/science/article/pii/S1568494624003624
+KW  - Metaverse
+KW  - Internet of things
+KW  - Advanced encryption standard
+KW  - Remote patient monitoring system
+KW  - Virtual consultations
+AB  - The convergence of Internet of Things (IoT) and metaverse technologies is revolutionizing healthcare. This study introduces a pioneering framework tailored for health monitoring within the metaverse. By reshaping remote patient monitoring and virtual consultations, the framework utilizes vital parameters like heart rate, blood pressure, and body temperature. It integrates IoT sensors, augmented reality (AR), and virtual reality (VR), establishing a cohesive metaverse environment for healthcare interactions. Notably, robust 256-bit AES encryption ensures data privacy and security. Our analysis highlights the pivotal role of metaverse architecture in healthcare, emphasizing the efficacy of AES-256 encryption in preserving patient confidentiality. Findings underscore the framework's potential to enhance remote patient care while upholding stringent data privacy standards. Moreover, it fosters trust among patients, healthcare providers, and regulatory bodies. In summary, this comprehensive framework marks a significant advancement in remote patient care, promising improved health outcomes and a secure foundation for healthcare in the metaverse.
+ER  - 
+
+TY  - JOUR
+T1  - A blockchain-based framework for drug security: Leveraging EdDSA to prevent counterfeiting
+AU  - Rahman, Md Saifur
+AU  - Nahar, Nazmun
+AU  - Imam, Md Hasan
+AU  - Bhuyian, Mohammad Nuruzzaman
+AU  - Rahman, Md Auhidur
+AU  - Khandaker, Mayeen Uddin
+AU  - Ahmed, Shams Forruque
+JO  - Array
+VL  - 28
+SP  - 100604
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2590-0056
+DO  - https://doi.org/10.1016/j.array.2025.100604
+UR  - https://www.sciencedirect.com/science/article/pii/S2590005625002310
+KW  - Elliptic curve cryptography
+KW  - Smart contract
+KW  - Hyperledger Fabric
+KW  - Consensus algorithm
+AB  - Drug counterfeiting is one of the most serious public health problems in the world, reducing consumer trust and costing hundreds of billions of dollars annually. However, the pharmaceutical supply chain monitoring system lacks traceability, is prone to unauthorized distribution, or has weak regulatory enforcement. While frameworks leveraging the advantages of blockchains have great promise, they primarily depend on the Rivest-Shamir-Adleman (RSA) and elliptic curve digital signature (ECDSA) algorithms. These algorithms lead to high computational costs and long processing times. They are also susceptible to side-channel attacks. This paper presents an Edwards-curve Digital Signature Algorithm (EdDSA) enabled blockchain-based framework for the pharmaceutical supply chain. It combines a decentralized ledger acting as an immutable and auditable record of the payments, and a QR-code verification module allowing consumers to verify products on the spot. The EdDSA algorithm enhances the functionality of the system with fast signature generation and verification. In addition, it has a higher resilience and efficiency against cryptographic attacks and is resource-efficient. Through experimental evaluation, it is shown that the proposed framework achieves superior performance in transaction throughput, execution time, and energy efficiency in comparison to state-of-the-art methods while obtaining a comparable level of security guarantees. Finally, the EdDSA-based framework not only improves transparency and security by mitigating threats to public health safety but also encourages stakeholders to make the right decisions, paving the way for a counterfeit-free global market for pharmaceuticals.
+ER  - 
+
+TY  - JOUR
+T1  - Demystifying analytical information processing capability: The case of cybersecurity incident response
+AU  - Naseer, Humza
+AU  - Maynard, Sean B.
+AU  - Desouza, Kevin C.
+JO  - Decision Support Systems
+VL  - 143
+SP  - 113476
+PY  - 2021
+DA  - 2021/04/01/
+SN  - 0167-9236
+DO  - https://doi.org/10.1016/j.dss.2020.113476
+UR  - https://www.sciencedirect.com/science/article/pii/S0167923620302311
+KW  - Analytical information processing capability
+KW  - Incident response
+KW  - Business analytics
+KW  - Information processing theory
+KW  - Cybersecurity
+KW  - Information security management
+AB  - Little is known about how organizations leverage business analytics (BA) to develop, process, and exploit analytical information in cybersecurity incident response (CSIR). Drawing on information processing theory (IPT), we conducted a field study using a multiple case study design to answer the following research question: How do organizations exploit analytical information in the process of cybersecurity incident response by using business analytics? We developed a theoretical framework that explains how organizations respond to the dynamic cyber threat environment by exploiting analytical information processing capability in the CSIR process. This, in turn, leads to positive outcomes in enterprise security performance, delivering both strategic and financial benefits. Our findings contribute to the BA and cybersecurity literature by providing useful insights into BA applications and the facilitation of analytics-driven decision making in CSIR. Further, they contribute to IPT by providing new insights about analytical information needs, mechanisms to seek analytical information, and analytical information use in the process of CSIR.
+ER  - 
+
+TY  - JOUR
+T1  - Who's that knocking at the door? The problem of credential abuse
+AU  - Mansfield-Devine, Steve
+JO  - Network Security
+VL  - 2021
+IS  - 2
+SP  - 6
+EP  - 15
+PY  - 2021
+DA  - 2021/02/01/
+SN  - 1353-4858
+DO  - https://doi.org/10.1016/S1353-4858(21)00018-0
+UR  - https://www.sciencedirect.com/science/article/pii/S1353485821000180
+AB  - At the heart of IT security is a simple concept – proving you are who you say you are. In this context, ‘you’ might be a human logging into a network or service, a device interacting with an application programming interface (API), one network talking to another or any number of other scenarios. And the proof could be a certificate, an SSH key, a token of some form or our old favourite – and inevitably the artefact we'll be talking most about here – the old, fragile and yet seemingly unkillable password. At the heart of IT security is a simple concept – proving that you are who you say you are. But the ways we have of doing that, through credentials of some form, are flawed. Credential abuse comes in many forms. The question we need to ask is, where does it sit in terms of an organisation's attack surface and security priorities? In the first of a two-part feature, Steve Mansfield-Devine surveys a number of industry experts to get their views on what forms of credential abuse are being encountered and the threat these pose to enterprises.
+ER  - 
+
+TY  - JOUR
+T1  - Provably efficient security-aware service function tree composing and embedding in multi-vendor networks
+AU  - Zheng, Danyang
+AU  - Xing, Huanlai
+AU  - Feng, Li
+AU  - Cao, Xiaojun
+JO  - Computer Networks
+VL  - 254
+SP  - 110843
+PY  - 2024
+DA  - 2024/12/01/
+SN  - 1389-1286
+DO  - https://doi.org/10.1016/j.comnet.2024.110843
+UR  - https://www.sciencedirect.com/science/article/pii/S1389128624006753
+KW  - Security-aware service function chain
+KW  - Approximate algorithm
+KW  - Service function tree deployment
+AB  - Multicast greatly benefits many emerging applications such as federated learning, metaverse, and data warehouse. Recently, due to frequent cyber-attacks, multicast services have tended to request rigorous security agreements, which likely differ among the destinations. To meet such agreements, one can employ security-aware service functions (SFs) to construct the security-aware SF tree (S-SFT) for multicast services. A security-aware SF can be provided by various vendors with diverse configurations and implementation costs. The multi-configured SFs and the various security agreements will add significant complexity to the deployment process of the security-aware multicast request. In this work, for the first time, we study how to effectively compose and embed an S-SFT over the network with multiple vendors. We formulate the problem of security-aware SFT composing and embedding. We develop a new technique called cost-security-centrality (CSC) based on the pigeonhole’ s principle and propose a heuristic algorithm called CSC-based S-SFT deployment (CSC-SD). Via thorough mathematical proofs, we show that CSC-SD is logarithm approximate. Extensive simulations show that CSC-SD significantly outperforms the benchmarks and reveal that more function sharing facilitates saving implementation cost, but more routing sharing does not indicate saving routing cost.
+ER  - 
+
+TY  - JOUR
+T1  - SecDefender: Detecting low-quality models in multidomain federated learning systems
+AU  - K.M., Sameera
+AU  - Sgueglia, Arnaldo
+AU  - P., Vinod
+AU  - K.A., Rafidha Rehiman
+AU  - Visaggio, Corrado Aaron
+AU  - Di Sorbo, Andrea
+AU  - Conti, Mauro
+JO  - Future Generation Computer Systems
+VL  - 164
+SP  - 107587
+PY  - 2025
+DA  - 2025/03/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2024.107587
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X2400551X
+KW  - Federated learning
+KW  - Adversarial attacks
+KW  - Anomaly detection
+KW  - Data poisoning
+KW  - Label flipping attacks
+KW  - Defense
+AB  - Federated learning (FL) is an innovative distributed learning paradigm that permits multiple parties to train models collaboratively while protecting individual privacy. However, it encounters security challenges, making it vulnerable to several adversarial attacks and leading to compromising model performance. Existing research on FL poisoning attacks and defense techniques tends to be application-specific, primarily emphasizing attack capabilities. However, it fails to consider inherent vulnerabilities in FL and the impact of attack intensity. To our knowledge, no existing work has delved into these issues within a multi-domain FL environment. This paper addresses these concerns by investigating the consequences of targeted label-flipping attacks within FL systems and comprehensively examining the effects of the attacks in single-label, double-label, and triple-label scenarios with different levels of poisoning intensities. Additionally, we investigate the influence of a temporal label-flipping attack, where we study the impact of adversaries available only for specific federated training rounds. Moreover, we propose a novel server-based defense mechanism called SecDefender to detect low-quality models in both IID and Non-IID settings of multi-domain environments. Our approach is rigorously evaluated against state-of-the-art alternatives using six benchmark datasets: CIC-Darknet2020, Fashion-MNIST, FEDMNIST, GTSR, HAR, and MNIST. Extensive experiments demonstrate that our proposed SecDefender significantly enhances its performance by over 65% in terms of source class recall, maintaining a low attack success rate. Consequently, there is a 1% to 2% enhancement in global model accuracy compared to existing approaches.
+ER  - 
+
+TY  - JOUR
+T1  - Learning from cyber security incidents: A systematic review and future research agenda
+AU  - Patterson, Clare M.
+AU  - Nurse, Jason R.C.
+AU  - Franqueira, Virginia N.L.
+JO  - Computers & Security
+VL  - 132
+SP  - 103309
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2023.103309
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404823002195
+KW  - Cyber security
+KW  - Incident investigation
+KW  - Incident response
+KW  - Lessons learned
+KW  - Learning process
+KW  - Organisational learning
+KW  - Post-incident review
+KW  - Security incident
+KW  - Systematic literature review
+KW  - Research agenda
+AB  - Cyber security incidents are now prevalent in many organisations. Arguably, those who can learn from security incidents and address the underlying causes will reduce the prevalence of similar ones in the future. This research provides a new examination of how organisations learn from incidents by systematically reviewing academic research on organisational learning from cyber security incidents and identifying further research needed in this area. To do this, it considers three research questions: what research has been conducted on learning from cyber security incidents, what learning practices in organisations have been found by research and what improvements have been recommended, and what further research is needed as organisations learn from such incidents. Using the PRISMA method, a total of 3,986 articles were extracted and, from these, a relevant set of 30 were selected for analysis to map the body of research, and to identify future research avenues. Despite learning lessons being recommended by both researchers and industry standards, our findings suggest that this advice is not being fully adopted by organisations. Importantly, these studies have found inadequate participation in learning activities, with superficial causal investigations, scarce effort on ensuring lessons are implemented and no evaluation of whether the actions taken actually reduce future security incidents. More research is needed to understand the right level and which learning practices to invest in for the greatest impact. For practitioners, this review discusses the essential elements of an effective process to learn from incidents. This review provides academics with a novel synthesis of the research undertaken on this topic, enabling them to incorporate the significant findings into their work and potentially explore the research agenda suggested.
+ER  - 
+
+TY  - JOUR
+T1  - An Efficient Security Solution for Industrial Internet of Things Applications
+AU  - Almagrabi, Alaa Omran
+JO  - Computers, Materials and Continua
+VL  - 72
+IS  - 2
+SP  - 3961
+EP  - 3983
+PY  - 2022
+DA  - 2022/03/26/
+SN  - 1546-2218
+DO  - https://doi.org/10.32604/cmc.2022.026513
+UR  - https://www.sciencedirect.com/science/article/pii/S1546221822014424
+KW  - Industrial internet of things (IIoT)
+KW  - blockchain
+KW  - trusted third parties
+KW  - endpoint verification
+AB  - The Industrial Internet of Things (IIoT) has been growing for presentations in industry in recent years. Security for the IIoT has unavoidably become a problem in terms of creating safe applications. Due to continual needs for new functionality, such as foresight, the number of linked devices in the industrial environment increases. Certification of fewer signatories gives strong authentication solutions and prevents trustworthy third parties from being publicly certified among available encryption instruments. Hence this blockchain-based endpoint protection platform (BCEPP) has been proposed to validate the network policies and reduce overall latency in isolation or hold endpoints. A resolver supports the encoded model as an input; network functions can be optimized as an output in an infrastructure network. The configuration of the virtual network functions (VNFs) involved fulfills network characteristics. The output ensures that the final service is supplied at the least cost, including processing time and network latency. According to the findings of this comparison, our design is better suited to simplified trust management in IIoT devices. Thus, the experimental results show the adaptability and resilience of our suggested confidence model against behavioral changes in hostile settings in IIoT networks. The experimental results show that our proposed method, BCEPP, has the following, when compared to other methods: high computational cost of 95.3%, low latency ratio of 28.5%, increased data transmitting rate up to 94.1%, enhanced security rate of 98.6%, packet reception ratio of 96.1%, user satisfaction index of 94.5%, and probability ratio of 33.8%.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing cybersecurity by generating user-specific security policy through the formal modeling of user behavior
+AU  - AlQadheeb, Arwa
+AU  - Bhattacharyya, Siddhartha
+AU  - Perl, Samuel
+JO  - Array
+VL  - 14
+SP  - 100146
+PY  - 2022
+DA  - 2022/07/01/
+SN  - 2590-0056
+DO  - https://doi.org/10.1016/j.array.2022.100146
+UR  - https://www.sciencedirect.com/science/article/pii/S2590005622000145
+KW  - Zero Trust
+KW  - Automatic verification
+KW  - Correctness
+KW  - Cybersecurity policy
+KW  - Security policy
+KW  - Formal methods
+KW  - User behavior
+KW  - Automated security policy generation
+KW  - Finite-State Automata
+KW  - Timed Computation Tree Logic
+AB  - Organizations today are faced with the difficult challenge of balancing the embrace of new and emerging technology, and securing their systems and data that support critical business functions. Although there have been significant advances in security enforcement technology, attackers are still able to compromise organizations and access. The impacts of computer intrusions have become so untenable that many organizations are looking at a drastic rethinking of their approach to the security of internal networks. This approach is called Zero Trust and it seeks to remove all notion of a trusted internal network boundary. The benefits of Zero Trust include significantly increasing the work that attackers would need to perform to achieve their objectives. But Zero Trust will also increase the management complexity for internal security teams. These teams will need a way to collect data and enforce policy decisions based upon analysis. This process will need to be done for all organizational systems, and data, and it will need to be done in all access contexts. Our approach uses formal methods to model and examine end-users security-related behaviors. Researchers have found that the users’ security decisions correlate with factors including demographics, personality traits, decision-making styles, and risk-taking preferences. We describe these behaviors by using Finite-State Automata (FSA). This allows for the automated formulation of linear-time security properties based on Timed Computation Tree Logic (TCTL). The logic is then used to check the satisfaction of collected and observed security behaviors against policy. This formal behavioral analysis could be combined with other security and network data during the context analysis process that needs to occur for each Zero Trust access request. Other network or host security data could include address identifiers, tokens, event data, packet inspection, running process data, cyber threat intelligence, and much more. Our method allows organizations that embrace a Zero Trust philosophy to generate context specific security policies that can be automatically verified for correctness and completion.
+ER  - 
+
+TY  - JOUR
+T1  - TokenGuard: A novel framework for robust access management in SDN controllers
+AU  - Elzoghbi, Mahmoud
+AU  - He, Hui
+JO  - Computer Communications
+VL  - 238
+SP  - 108169
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 0140-3664
+DO  - https://doi.org/10.1016/j.comcom.2025.108169
+UR  - https://www.sciencedirect.com/science/article/pii/S0140366425001264
+KW  - SDN
+KW  - TokenGuard
+KW  - REST security framework
+KW  - Fractional Logistic Map (FLM)
+KW  - Access token
+AB  - Software-defined networks (SDNs) are increasingly popular due to their simplified network management and centralized control through an SDN controller. However, ensuring secure authentication and authorization for REST web services in SDN controllers is a critical challenge. This paper introduces TokenGuard, a novel security framework designed to enhance the protection of REST web services in SDN controllers. TokenGuard uses dynamic and unique access tokens for each REST request between network applications and the SDN controller. These tokens are generated using a specialized mathematical model, the Fractional Logistic Map (FLM), which incorporates a fixed memory length. This approach significantly improves the robustness of SDN controllers against REST replay attacks involving stolen access tokens. Extensive simulations demonstrate that TokenGuard outperforms standard and federated token-based authentication systems in terms of performance and security. Specifically, TokenGuard achieves approximately 10.5% faster response times than standard token-based systems and 78.1% faster than federated token-based systems. Additionally, TokenGuard’s content sizes are 1.95% smaller than standard token-based systems and 35.28% smaller than federated token-based systems. Moreover, TokenGuard handles requests per second 1.03 times more efficiently than standard token-based systems and 4.82 times more efficiently than federated token-based systems. By employing dynamic access token sequences, TokenGuard significantly mitigates the risks associated with token replay attacks and stolen access tokens, offering a substantial security advantage over the static single-token mechanisms used in traditional systems. This paper also addresses the challenges and limitations of current SDN controllers and highlights how TokenGuard fills these gaps. Practical aspects of deploying TokenGuard in real-world SDN environments are discussed, including its scalability, performance impact, and interoperability.
+ER  - 
+
+TY  - JOUR
+T1  - Enhancing IoT Data Security with Lightweight Blockchain and Okamoto Uchiyama Homomorphic Encryption
+AU  - Mohammed, Mohanad A.
+AU  - Wahab, Hala B. Abdul
+JO  - CMES - Computer Modeling in Engineering and Sciences
+VL  - 138
+IS  - 2
+SP  - 1731
+EP  - 1748
+PY  - 2023
+DA  - 2023/11/17/
+SN  - 1526-1492
+DO  - https://doi.org/10.32604/cmes.2023.030528
+UR  - https://www.sciencedirect.com/science/article/pii/S1526149223000607
+KW  - Blockchain
+KW  - IoT
+KW  - integration of IoT and blockchain
+KW  - consensus algorithm
+KW  - Okamoto Uchiyama
+KW  - homomorphic encryption
+KW  - lightweight blockchain
+AB  - Blockchain technology has garnered significant attention from global organizations and researchers due to its potential as a solution for centralized system challenges. Concurrently, the Internet of Things (IoT) has revolutionized the Fourth Industrial Revolution by enabling interconnected devices to offer innovative services, ultimately enhancing human lives. This paper presents a new approach utilizing lightweight blockchain technology, effectively reducing the computational burden typically associated with conventional blockchain systems. By integrating this lightweight blockchain with IoT systems, substantial reductions in implementation time and computational complexity can be achieved. Moreover, the paper proposes the utilization of the Okamoto Uchiyama encryption algorithm, renowned for its homomorphic characteristics, to reinforce the privacy and security of IoT-generated data. The integration of homomorphic encryption and blockchain technology establishes a secure and decentralized platform for storing and analyzing sensitive data of the supply chain data. This platform facilitates the development of some business models and empowers decentralized applications to perform computations on encrypted data while maintaining data privacy. The results validate the robust security of the proposed system, comparable to standard blockchain implementations, leveraging the distinctive homomorphic attributes of the Okamoto Uchiyama algorithm and the lightweight blockchain paradigm.
+ER  - 
+
+TY  - JOUR
+T1  - The research challenges in security and safeguards for nuclear fission batteries
+AU  - Smidts, Carol
+AU  - Reyes, Gustavo
+AU  - Endres de Oliveira, Cassiano
+AU  - Cao, Lei Raymond
+JO  - Progress in Nuclear Energy
+VL  - 159
+SP  - 104627
+PY  - 2023
+DA  - 2023/05/01/
+SN  - 0149-1970
+DO  - https://doi.org/10.1016/j.pnucene.2023.104627
+UR  - https://www.sciencedirect.com/science/article/pii/S0149197023000628
+KW  - Fission battery (FB)
+KW  - Security
+KW  - Safeguards
+KW  - Non-proliferation
+KW  - Cybersecurity
+KW  - Autonomous system
+AB  - This paper discusses the nuclear security and safeguards research challenges presented by the development and deployment of nuclear fission batteries. These are defined as easily transportable and deployable nuclear systems which are designed to operate either unattended or autonomously. We start by defining the current landscape of domestic and international safeguards and security and discuss how it can be affected by the introduction of these new nuclear systems. We then specifically discuss the technology gaps and technologies to be developed to facilitate their practical deployment. The discussion is based on a commentary of experts' inputs collected during a workshop held as a part of the fission battery initiative. A commentary of experts' inputs discussing issues and gaps related to security and safeguards of fission batteries is provided. This input is categorized using qualitative coding of the text of the commentary of the experts’ inputs but without modifying the basic content. From there we find that, as expected, we can leverage conclusions from existing security and safeguards studies for small modular rectors and develop bespoke target set analyses to inform security postures based on probabilistic risk assessment. We find also that specific fission battery security economic analysis tools are needed and security by design must be applied early. However, the most important finding is that these new systems will require a new comprehensive set of cyber tools covering transportation, installation, operation, maintenance security of the fission battery systems. Overall, we find that the development of the necessary security and safeguards requirements at the design phase of such a technology will be of great benefit in the smooth deployment of this modern nuclear energy system.
+ER  - 
+
+TY  - JOUR
+T1  - A novel proactive and dynamic cyber risk assessment methodology
+AU  - Cheimonidis, Pavlos
+AU  - Rantos, Konstantinos
+JO  - Computers & Security
+VL  - 154
+SP  - 104439
+PY  - 2025
+DA  - 2025/07/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2025.104439
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404825001282
+KW  - Cybersecurity
+KW  - Cyber risk assessment
+KW  - Dynamic risk assessment
+KW  - Bayesian networks
+KW  - Industrial control systems
+AB  - In today’s operational environment, organizations face numerous cybersecurity challenges and risks. This paper presents a novel risk assessment methodology designed to assess cyber risks in a proactive and dynamic manner. Our approach gathers information from both the organization’s internal environment and cybersecurity-related open sources. It then converts the collected qualitative data into numerical form by applying predefined mapping rules, including categorical assignments and frequency-based quantification. These numerical values are then integrated with other quantitative data using a probabilistic method. Subsequently, all this information is integrated into a Bayesian network model to dynamically estimate the probability of success of a cyber attack. This probability, combined with the impact assessments of the organization’s assets, is used to provide risk estimations. By incorporating the Exploit Prediction Scoring System, our model is capable of delivering not only dynamic but also proactive risk assessments. To validate the effectiveness of the proposed methodology, we present a use case that demonstrates its application in assessing risk within a SCADA environment.
+ER  - 
+
+TY  - JOUR
+T1  - Information security threats and organizational readiness in nWFH scenarios
+AU  - Jayarao, Guruprasad B
+AU  - Ray, Sanjog
+AU  - Panigrahi, Prabin Kumar
+JO  - Computers & Security
+VL  - 140
+SP  - 103745
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2024.103745
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404824000464
+KW  - nWFH
+KW  - WFH
+KW  - CIA
+KW  - Organizational readiness
+KW  - Information security
+KW  - Small and medium size enterprises
+KW  - Change theory
+AB  - The COVID-19 pandemic has led to the development of new organizational working models, such as new-work-from-home (nWFH). The new working models were not only primarily implemented in software development organizations using information technology but also in other types of organizations where nWFH was feasible. The sudden transition to work from home (WFH) gave rise to a new concept of nWFH, which was characterized by inadequate planning, design, or testing, thereby posing security risks to information systems. The existing body of literature pertaining to organizational readiness has primarily concentrated on large organizations, encompassing many contexts such as innovation, knowledge management, and healthcare. The concept of remote work, referred to as nWFH (New-Work from Home), has demonstrated diverse impacts on organizations under distinct contextual settings. The ability of large organizations to effectively move to remote operations is attributed to their prior experience and comfort with such practices, as well as their capacity to invest in robust software and technology solutions that provide high levels of security. Nevertheless, the implementation of remote work arrangements posed considerable challenges to small and medium enterprises (SMEs), due to their limited past exposure and financial constraints. These variables increased their susceptibility to any decrease in production, even if it was only for a single day. Here by SMEs, we refer to the medium sized organizations. Medium-sized organizations are often the focus of cybercriminals due to their relatively insufficient security systems and processes when compared to larger organizations, making them vulnerable to assaults. As a result of the widespread adoption of remote work arrangements, medium-sized enterprises have exhibited a lower level of preparedness in managing their operations compared to larger organizations. Consequently, this research aims to solve this disparity specifically within the context of medium sized organizations. Exploratory methodology was employed in this study, wherein primary data was collected through in-depth interviews with a sample size of 20 subject matter experts from medium sized organizations. Through the application of content analysis on the transcripts of the interviews, our study has identified eleven distinct criteria that have a significant role in determining the level of organizational preparedness for information security risks in the context of remote work arrangements. In this study, we identified and examined six factors that have been previously discussed in the literature: resource readiness, cultural readiness, strategic readiness, information technology readiness, cognitive readiness, and partnership readiness. Additionally, we discovered five new factors through our research: security valence, cybersecurity risk management through “cyber insurance”, balanced confidentiality, integrity, and availability (CIA), absence of work-from-home (WFH) policy, and organizational and technical best practices. We discuss the practical and research ramifications of this investigation.
+ER  - 
+
+TY  - JOUR
+T1  - Bolstering Biosecurity Amid the Biotechnology Revolution
+AU  - DiEuliis, Diane
+JO  - Orbis
+VL  - 68
+IS  - 3
+SP  - 361
+EP  - 382
+PY  - 2024
+DA  - 2024/01/01/
+SN  - 0030-4387
+DO  - https://doi.org/10.1016/j.orbis.2024.05.003
+UR  - https://www.sciencedirect.com/science/article/pii/S0030438724000255
+AB  - The rapid pace of novel technological change, referred to as “emerging technologies,” is challenging our ability to devise policy and governance apace. This is particularly true in the life sciences and biotechnology, where the current tools used for promoting biosecurity via policy and governance are becoming outdated.
+ER  - 
+
+TY  - JOUR
+T1  - SAARC super smart grid: Navigating the future - unleashing the power of an energy-efficient integration of renewable energy resources in the saarc region
+AU  - Raza, Ali
+AU  - Liaqat, Marriam
+AU  - Adnan, Muhammad
+AU  - Iqbal, Muhammad Sajid
+AU  - Jingzhao, Li
+AU  - Ahmad, Ijaz
+JO  - Computers and Electrical Engineering
+VL  - 118
+SP  - 109405
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2024.109405
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790624003331
+KW  - Carbon dioxide emissions
+KW  - Demand and response management
+KW  - High voltage transmission
+KW  - Renewable energy
+KW  - Super smart grid
+KW  - Power flow control
+KW  - SAARC
+KW  - FACTs
+KW  - Clean energy
+AB  - The major problems in the power system network of the South Asian Association for Regional Cooperation (SAARC) region include the utilization of substantial fossil fuels, which leads to significant emissions of CO2. Moreover, due to the depletion of fossil fuels, it is very difficult to manage the demand requirement of the SAARC regions, which leads to significant power shortage issues. These problems would be resolved through the integration of the substantial amount of renewable energy resources (RERs) that are available in excess in the SAARC regions into the power system networks. This will provide a futuristic roadmap to a sustainable and green energy environment in the SAARC region. In this regard, the SAARC region has devised a new plan to transform its smart grid infrastructure into the super smart grid (SSG), which would connect the SAARC countries using the high voltage transmission lines utilizing each country's substantial RERs. To accelerate this ecofriendly effort, the key objective of this review study is to evaluate the potential of the SAARC SSG for demand management and emissions reduction. This study provides a comprehensive overview of SSG technology, covering its technical background, management, power flow improvement techniques, power stability techniques, simulation models, and future steps for development in the SAARC region. First, the regional conflicts, energy deficiency, and potential of the SAARC region have been discussed. Second, a potential architecture of the SAARC SSG has been simulated. Third, a novel Markov chain modeling has been presented for demand management in the SAARC regions. The results and discussions section presents findings from simulations and models. The paper also discusses CO2 reduction techniques, including methods for capturing, storing, and utilizing carbon in biofuel. The study also discusses futuristic optimization techniques in SSG, including blockchain, federated learning, reinforcement learning, the metaverse, digital twin technology, artificial intelligence, and cloud computing. The SSG challenges and limitations section summarizes the challenges and limitations faced by SSG. Finally, a roadmap to a sustainable and green energy environment for the SAARC power grids has been identified to support the implementation of the futuristic SAARC SSG. The results exhibited that there is a good potential for successful demand management and emissions reduction through the SAARC SSG.
+ER  - 
+
+TY  - JOUR
+T1  - Ethical hacking for IoT: Security issues, challenges, solutions and recommendations
+AU  - Yaacoub, Jean-Paul A.
+AU  - Noura, Hassan N.
+AU  - Salman, Ola
+AU  - Chehab, Ali
+JO  - Internet of Things and Cyber-Physical Systems
+VL  - 3
+SP  - 280
+EP  - 308
+PY  - 2023
+DA  - 2023/01/01/
+SN  - 2667-3452
+DO  - https://doi.org/10.1016/j.iotcps.2023.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S2667345223000238
+KW  - Internet-of-things (IoT)
+KW  - IoT ethical hacking
+KW  - IoT penetration testing
+KW  - Internet of ethical hacking things (IoEHT)
+KW  - IoT cyber-security
+AB  - In recent years, attacks against various Internet-of-Things systems, networks, servers, devices, and applications witnessed a sharp increase, especially with the presence of 35.82 billion IoT devices since 2021; a number that could reach up to 75.44 billion by 2025. As a result, security-related attacks against the IoT domain are expected to increase further and their impact risks to seriously affect the underlying IoT systems, networks, devices, and applications. The adoption of standard security (counter) measures is not always effective, especially with the presence of resource-constrained IoT devices. Hence, there is a need to conduct penetration testing at the level of IoT systems. However, the main issue is the fact that IoT consists of a large variety of IoT devices, firmware, hardware, software, application/web-servers, networks, and communication protocols. Therefore, to reduce the effect of these attacks on IoT systems, periodic penetration testing and ethical hacking simulations are highly recommended at different levels (end-devices, infrastructure, and users) for IoT, and can be considered as a suitable solution. Therefore, the focus of this paper is to explain, analyze and assess both technical and non-technical aspects of security vulnerabilities within IoT systems via ethical hacking methods and tools. This would offer practical security solutions that can be adopted based on the assessed risks. This process can be considered as a simulated attack(s) with the goal of identifying any exploitable vulnerability or/and a security gap in any IoT entity (end devices, gateway, or servers) or firmware.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring stewardship: A precursor to voluntary security behaviors
+AU  - Ogbanufe, Obi
+AU  - Crossler, Robert E.
+AU  - Biros, David
+JO  - Computers & Security
+VL  - 109
+SP  - 102397
+PY  - 2021
+DA  - 2021/10/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2021.102397
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404821002212
+KW  - Stewardship theory
+KW  - Voluntary security behaviors
+KW  - Organizational commitment
+KW  - Organizational identity
+KW  - Organizational support
+AB  - The security of organizations’ information resources is often threatened by employee non-compliance to security policy or negligence. Though technical and procedural controls for curtailing security violations and motivating secure behaviors have been explored in the literature, security violations persist. Given the significant influence individuals wield on the welfare of organizations’ security and the dynamic nature of security threats, we explore voluntary security behaviors through the mechanism of stewardship. Drawing from the stewardship and information security literature, we develop and test a stewardship model of voluntary security behaviors using a sample of 409 working individuals. The results show that organizational support and identification influence stewardship, which in turn affects voluntary security behaviors. Our findings have several theoretical and practical implications for increasing stewardship and voluntary security behaviors in the organization.
+ER  - 
+
+TY  - JOUR
+T1  - A systematic study on the challenges, characteristics and security issues in vehicular networks
+AU  - Lone, Faisal
+AU  - Verma, Harsh Kumar
+AU  - Sharma, Krishna Pal
+JO  - International Journal of Pervasive Computing and Communications
+VL  - 20
+IS  - 1
+SP  - 56
+EP  - 98
+PY  - 2023
+DA  - 2023/01/04/
+SN  - 1742-7371
+DO  - https://doi.org/10.1108/IJPCC-04-2022-0164
+UR  - https://www.sciencedirect.com/science/article/pii/S1742737123000078
+KW  - V2X
+KW  - Security
+KW  - Trust
+KW  - Cryptography
+KW  - ITS
+AB  - Purpose
+The purpose of this study is to extensively explore the vehicular network paradigm, challenges faced by them and provide a reasonable solution for securing these vulnerable networks. Vehicle-to-everything (V2X) communication has brought the long-anticipated goal of safe, convenient and sustainable transportation closer to reality. The connected vehicle (CV) paradigm is critical to the intelligent transportation systems vision. It imagines a society free of a troublesome transportation system burdened by gridlock, fatal accidents and a polluted environment. The authors cannot overstate the importance of CVs in solving long-standing mobility issues and making travel safer and more convenient. It is high time to explore vehicular networks in detail to suggest solutions to the challenges encountered by these highly dynamic networks.
+Design/methodology/approach
+This paper compiles research on various V2X topics, from a comprehensive overview of V2X networks to their unique characteristics and challenges. In doing so, the authors identify multiple issues encountered by V2X communication networks due to their open communication nature and high mobility, especially from a security perspective. Thus, this paper proposes a trust-based model to secure vehicular networks. The proposed approach uses the communicating nodes’ behavior to establish trustworthy relationships. The proposed model only allows trusted nodes to communicate among themselves while isolating malicious nodes to achieve secure communication.
+Findings
+Despite the benefits offered by V2X networks, they have associated challenges. As the number of CVs on the roads increase, so does the attack surface. Connected cars provide numerous safety-critical applications that, if compromised, can result in fatal consequences. While cryptographic mechanisms effectively prevent external attacks, various studies propose trust-based models to complement cryptographic solutions for dealing with internal attacks. While numerous trust-based models have been proposed, there is room for improvement in malicious node detection and complexity. Optimizing the number of nodes considered in trust calculation can reduce the complexity of state-of-the-art solutions. The theoretical analysis of the proposed model exhibits an improvement in trust calculation, better malicious node detection and fewer computations.
+Originality/value
+The proposed model is the first to add another dimension to trust calculation by incorporating opinions about recommender nodes. The added dimension improves the trust calculation resulting in better performance in thwarting attacks and enhancing security while also reducing the trust calculation complexity.
+ER  - 
+
+TY  - JOUR
+T1  - Conceptualization and cases of study on cyber operations against the sustainability of the tactical edge
+AU  - Sotelo Monge, Marco Antonio
+AU  - Maestre Vidal, Jorge
+JO  - Future Generation Computer Systems
+VL  - 125
+SP  - 869
+EP  - 890
+PY  - 2021
+DA  - 2021/12/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2021.07.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X21002788
+KW  - Cyber defense
+KW  - Economical Denial of Sustainability
+KW  - Military operations
+KW  - Situational Awareness
+KW  - Tactical Denial of Sustainability
+AB  - The last decade consolidated the cyberspace as fifth domain of military operations, which extends its preliminarily intelligence and information exchange purposes towards enabling complex offensive and defensive operations supported/supportively of parallel kinetic domain actuations. Although there is a plethora of well documented cases on strategic and operational interventions of cyber commands, the cyber tactical military edge is still a challenge, where cyber fires barely integrate to the traditional joint targeting cycle due to, among others, long planning/development times, asymmetric effects, strict target reachability requirements, or the fast propagation of collateral damage; the latter rapidly deriving on hybrid impacts (political, economic, social, etc.) and evidencing significant socio-technical gaps. In this context, it is expected that Tactical Clouds disruptively facilitate cyber operations at the edge while exposing the rest of the digital assets of the operation to them. On these grounds, the main purpose of the conducted research is to review and in depth analyze the risks and opportunities of jeopardizing the sustainability of the military Tactical Clouds at their cyber edge. Along with a 1) comprehensively formulation of the researched problematic, the study 2) formalizes the Tactical Denial of Sustainability (TDoS) concept; 3) introduces the phasing, potential attack surfaces, terrains and impact of TDoS attacks; 4) emphasizes the related human and socio-technical aspects; 5) analyzes the threats/opportunities inherent to their impact on the cloud energy efficiency; 6) reviews their implications at the military cyber thinking for tactical operations; 7) illustrates five extensive CONOPS that facilitate the understanding of the TDoS concept; and given the high novelty of the discussed topics, this paper 8) paves the way for further research and development actions.
+ER  - 
+
+TY  - JOUR
+T1  - Louder bark with no bite: Privacy protection through the regulation of mandatory data breach notification in Australia
+AU  - Alazab, Mamoun
+AU  - Hong, Seung-Hun
+AU  - Ng, Jenny
+JO  - Future Generation Computer Systems
+VL  - 116
+SP  - 22
+EP  - 29
+PY  - 2021
+DA  - 2021/03/01/
+SN  - 0167-739X
+DO  - https://doi.org/10.1016/j.future.2020.10.017
+UR  - https://www.sciencedirect.com/science/article/pii/S0167739X20329940
+KW  - Cybercrime
+KW  - Privacy protection
+KW  - Mandatory notification
+KW  - Notifiable data breach
+KW  - Regulation
+KW  - Tort of privacy
+AB  - The disruptive shift of technologies in the Internet age poses the challenge of securing our digital asset and cyberspace from large-scale, sophisticatedly targeted offenses and cybercrimes. As a response, many governments have introduced mandatory notification schemes in which an entity bears an obligation to notify the regulator and affected individuals if personal data it holds is compromised. Focusing on Australia’s Notifiable Data Breach (NDB) scheme introduced in 2018, this paper points out that the NDB scheme gives entities that should be responsible for data protection much leeway while holding individuals, only victims of a data breach, responsible for dealing with the consequences. This is problematic as redressing the grievances caused by a data breach is difficult in the Australian context. It is difficult for a victim of a breach of privacy to bring an action in court mainly because there is no established tort of privacy in Australia. Further, bringing a class action for data breaches is a difficult process. We suggest that the real effect of the NDB scheme requires an understanding in a broader context of Australian Privacy Principles (APPs). Regulated in a broader APPs context, the NDB scheme could become a part of a privacy protection regime that requires public agencies and businesses to have better accountability and responsibility mechanisms.
+ER  - 
+
+TY  - JOUR
+T1  - Understanding privacy concerns in ChatGPT: A data-driven approach with LDA topic modeling
+AU  - Alkamli, Shahad
+AU  - Alabduljabbar, Reham
+JO  - Heliyon
+VL  - 10
+IS  - 20
+SP  - e39087
+PY  - 2024
+DA  - 2024/10/30/
+SN  - 2405-8440
+DO  - https://doi.org/10.1016/j.heliyon.2024.e39087
+UR  - https://www.sciencedirect.com/science/article/pii/S2405844024151183
+KW  - ChatGPT
+KW  - Privacy concerns
+KW  - Generative AI
+KW  - Twitter
+KW  - Survey
+KW  - Latent dirichlet allocation (LDA)
+KW  - Data categorization
+KW  - Unauthorized access
+KW  - Data exploitation
+KW  - Personal input
+AB  - This study investigates privacy concerns associated with ChatGPT, a prominent generative AI model, through a data-driven approach combining Twitter data analysis and a user survey. Leveraging Latent Dirichlet Allocation (LDA) topic modeling and data categorization techniques, the research identifies key areas of concern: 1) Privacy Leakage Due to Public Data Exploitation, 2) Privacy Leakage Due to Personal Input Exploitation, and 3) Privacy Leakage Due to Unauthorized Access. Twitter data analysis of over 500k tweets, supplemented by a survey of 67 ChatGPT users, reveals nuanced user perceptions and experiences regarding privacy risks. A Python program was used to improve a dataset of 500k tweets referencing “ChatGPT” during the data preparation stage. To get a refined collection of terms, steps included converting text to lowercase, eliminating mentions and hyperlinks, tokenizing, eliminating stopwords, and keyword matching to extract tweets about ChatGPT's privacy features. Once preprocessing was completed, there were 11k refined tweets. Results highlight significant apprehensions, particularly regarding unauthorized access, underscoring the importance of robust privacy measures in AI systems. The study contributes to understanding user concerns, informing policy decisions, and guiding future research on privacy in generative AI. These studies might improve ChatGPT and other AI systems' security and privacy. The public, corporations, researchers, lawmakers, and AI developers may all benefit from the useful information it provides in better understanding and managing privacy threats.
+ER  - 
+
+TY  - JOUR
+T1  - AI driven transformation in trade finance: A roadmap for automating letter of credit document examination
+AU  - Khalil, Mounaf Asaad
+AU  - Padmanabhan, Regina
+AU  - Hadid, Majed
+AU  - Elomri, Adel
+AU  - Kerbache, Laoucine
+JO  - Digital Business
+VL  - 5
+IS  - 2
+SP  - 100130
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 2666-9544
+DO  - https://doi.org/10.1016/j.digbus.2025.100130
+UR  - https://www.sciencedirect.com/science/article/pii/S2666954425000250
+KW  - Trade finance
+KW  - Artificial intelligence
+KW  - Letter of credit
+KW  - Document examination
+KW  - Roadmap
+AB  - International trade with unfamiliar stakeholders poses challenges of trust, payment security, and regulatory compliance. Letters of Credit (LC) help mitigate these risks but rely on manual, error prone processes that lead to delays, high costs, and limited scalability. This study proposes a roadmap for AI adoption in trade finance, specifically targeting the automation of LC document examination. Guided by the Technology-Organization-Environment (TOE) framework and complemented by individual-level insights from the Technology Acceptance Model (TAM), the research integrates organizational, technological, and behavioral factors to frame the adoption process. A literature-driven approach, supported by expert insights and case study analysis, was used to identify trade finance bottlenecks and the role of AI in addressing them. The findings highlight AI's potential in discrepancy detection, workflow optimization, and compliance improvement. However, full automation remains impractical due to regulatory and trust concerns. A hybrid AI-human approach is proposed as a practical and effective solution. This study contributes to bridging research gaps in AI-driven trade finance and provides strategic insights for implementing intelligent document examination systems.
+ER  - 
+
+TY  - JOUR
+T1  - Cryptocurrency fraud and its effects on price volatility in the cryptocurrency market
+AU  - Khiari, Wided
+AU  - Lajmi, Azhaar
+AU  - Neffati, Amira
+AU  - El Fahem, Ahmed
+JO  - Journal of Chinese Economic and Foreign Trade Studies
+VL  - 18
+IS  - 2
+SP  - 243
+EP  - 275
+PY  - 2025
+DA  - 2025/01/27/
+SN  - 1754-4408
+DO  - https://doi.org/10.1108/JCEFTS-05-2024-0034
+UR  - https://www.sciencedirect.com/science/article/pii/S1754440825000022
+KW  - Price fluctuations
+KW  - Volatility
+KW  - Cryptocurrency frauds
+KW  - Multidimensional scaling method
+AB  - Purpose
+This study aims to examine the effect of cryptocurrency frauds on the price fluctuations of the cryptocurrency market.
+Design/methodology/approach
+To examine the effects of cryptocurrency frauds on cryptocurrency market, the authors have collected data of 38 cryptocurrencies price fluctuations between 01/01/2020 and 28/11/2021. The authors have used the multidimensional scaling method (MDS) to explore the price fluctuations of the cryptocurrency market and its relationship with the cryptocurrency market between 2020 and 2021.
+Findings
+The study results showed that even though cryptocurrencies are categorised into Bitcoin, Altcoins and Stablecoins, the effect of the frauds is specific to their usage cases. Bitcoin and certain Altcoins were affected in a certain way compared to Ethereum and cryptocurrencies specialised in smart contracts. Cryptocurrencies such as Tron and Elrond with the specifications of staking had a different reaction and cryptocurrencies that contribute to the development and enhancement of blockchain infrastructure had a different reaction throughout these incidents. Stablecoins, however, were unaffected by the fraud incidents because of their reliability and their correlation to real assets such as fiat money, petrol and gold.
+Practical implications
+The study enables financial institutions to understand how to react to cryptocurrencies, which are both an opportunity and a challenge for them. Consequently, banks should strengthen their security measures to protect customer funds from the risks associated with fraud and cyber-attacks. They should also implement risk management measures and guarantee the integrity of their systems to ensure stability and confidence in the use of cryptocurrencies. In addition, institutions should work in collaboration with the authorities to overcome regulatory challenges and create a favourable framework for the use of cryptocurrencies.
+Originality/value
+The main contribution of this paper is to examine this topic, which has been very little explored in previous work. The lack of theoretical and empirical evidence concerning this study represented a challenge, and an originality as studies concerning cryptocurrency fraud are limited, if not non-existent. The second contribution is quantitative and uses a MDS to examine price fluctuations in the cryptocurrency market and its relationship with the cryptocurrency market.
+ER  - 
+
+TY  - JOUR
+T1  - SoK: Timeline based event reconstruction for digital forensics: Terminology, methodology, and current challenges
+AU  - Breitinger, Frank
+AU  - Studiawan, Hudan
+AU  - Hargreaves, Chris
+JO  - Forensic Science International: Digital Investigation
+VL  - 53
+SP  - 301932
+PY  - 2025
+DA  - 2025/07/01/
+T2  - DFRWS USA 2025 - Selected Papers from the 25th Annual Digital Forensics Research Conference USA
+SN  - 2666-2817
+DO  - https://doi.org/10.1016/j.fsidi.2025.301932
+UR  - https://www.sciencedirect.com/science/article/pii/S266628172500071X
+KW  - Event reconstruction
+KW  - Timeline
+KW  - Digital investigation
+KW  - Methodology
+KW  - Artifacts
+KW  - Terminology
+KW  - Framework
+KW  - Challenges
+AB  - Event reconstruction is a technique that examiners can use to attempt to infer past activities by analyzing digital artifacts. Despite its significance, the field suffers from fragmented research, with studies often focusing narrowly on aspects like timeline creation or tampering detection. This paper addresses the lack of a unified perspective by proposing a comprehensive framework for timeline-based event reconstruction, adapted from traditional forensic science models. We begin by harmonizing existing terminology and presenting a cohesive diagram that clarifies the relationships between key elements of the reconstruction process. Through a comprehensive literature survey, we classify and organize the main challenges, extending the discussion beyond common issues like data volume. Lastly, we highlight recent advancements and propose directions for future research, including specific research gaps. By providing a structured approach, key findings, and a clearer understanding of the underlying challenges, this work aims to strengthen the foundation of digital forensics.
+ER  - 
+
+TY  - JOUR
+T1  - Blockchain empowered dynamic access control for secure data sharing in collaborative emergency management
+AU  - Wang, Qi
+AU  - Liu, Yi
+JO  - Information Processing & Management
+VL  - 62
+IS  - 3
+SP  - 103960
+PY  - 2025
+DA  - 2025/05/01/
+SN  - 0306-4573
+DO  - https://doi.org/10.1016/j.ipm.2024.103960
+UR  - https://www.sciencedirect.com/science/article/pii/S0306457324003194
+KW  - Blockchain
+KW  - Access control
+KW  - Smart contract
+KW  - Collaborative emergency management
+AB  - In the realm of emergency management involving multi-party collaboration, securely sharing data among multiple entities poses a significant challenge. Traditional centralized data platforms struggle with fine-grained access control for data from different sources and are susceptible to single-point failures and risks of forged authorization. This paper delves into the prospective application of blockchain technology for decentralized data governance. We propose a dynamic access control technology for multi-party collaborative emergency response, which combines blockchain and attribute-based access control technologies to enable dynamic access control in multi-party data sharing scenarios. A data sharing system for collaborative emergency management built with Hyperledger Fabric has been developed and subjected to a series of evaluation tests. The experimental results reveal that our blockchain-based system not only significantly enhances data security and privacy by leveraging decentralized control but also improves the efficiency and reliability of data sharing in emergency situations. Specifically, our findings demonstrate the system's ability to dynamically adapt access control policies based on changing emergency scenarios, effectively mitigating risks associated with single-point failures and unauthorized access. These outcomes underscore the viability and reliability of our approach, providing a robust framework for secure, scalable, and flexible data sharing in the demanding field of emergency management.
+ER  - 
+
+TY  - JOUR
+T1  - Cybersecurity maturity model: Systematic literature review and a proposed model
+AU  - Büyüközkan, Gülçin
+AU  - Güler, Merve
+JO  - Technological Forecasting and Social Change
+VL  - 213
+SP  - 123996
+PY  - 2025
+DA  - 2025/04/01/
+SN  - 0040-1625
+DO  - https://doi.org/10.1016/j.techfore.2025.123996
+UR  - https://www.sciencedirect.com/science/article/pii/S0040162525000277
+KW  - Cybersecurity
+KW  - Maturity model
+KW  - Cybersecurity maturity model
+KW  - Science mapping
+KW  - Systematic literature review
+AB  - The growing importance of cybersecurity stems from its strategic value to various stakeholders, including individuals, businesses, governments, and society as a whole. Ensuring robust cybersecurity programs and assessing maturity levels is critical for organizational resilience. Cybersecurity maturity models have emerged as essential tools for evaluating readiness and guiding improvements. This study aims to systematically review existing research with bibliometric analysis and propose a cybersecurity maturity model that will help organizations assess their readiness. Web of Science and Scopus databases were searched, and bibliometric networks were visualized and explored using the VOSViewer and Biblioshiny software. This study is one of the first attempts to examine cybersecurity maturity areas using the science mapping approach. The proposed cybersecurity maturity model uses bibliometric analysis, literature searches on academic papers, industry reports, and expert opinions. The proposed cybersecurity maturity model comprises five dimensions, fifteen factors, and five levels. The proposed model is applied to three companies to demonstrate the validity using real-world examples. This study significantly contributes to the body of knowledge on cybersecurity maturity. The proposed model serves as the foundation for future researchers interested in determining cybersecurity maturity. Additionally, practitioners can use the proposed maturity factors to lead their cybersecurity systems.
+ER  - 
+
+TY  - JOUR
+T1  - A privacy threat model for identity verification based on facial recognition
+AU  - Beltrán, Marta
+AU  - Calvo, Miguel
+JO  - Computers & Security
+VL  - 132
+SP  - 103324
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2023.103324
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404823002341
+KW  - Biometrics
+KW  - Facial recognition
+KW  - Identity verification
+KW  - Privacy
+KW  - Threat modelling
+AB  - The proliferation of different types of photographic and video cameras makes it relatively simple and non-intrusive to acquire facial fingerprints with sufficient quality to perform individuals’ identity verification. In most democratic societies, a debate has been occurring regarding using such techniques in different application domains. Discussions usually revolve around the tradeoffs between utility (security in access control, mobile phone unlocking, payment processing, etc.), usability or economic gain and risks to citizens’ rights and freedoms (privacy) or ethics. This paper identifies the common aspects of different solutions for identity verification based on facial recognition techniques within different application domains. It then performs a privacy threat modelling based on these common aspects to identify the most critical risk factors and a minimum set of safeguards to be considered for their management.
+ER  - 
+
+TY  - JOUR
+T1  - Digital transformation and cybersecurity risks
+AU  - Türegün, Nida
+JO  - International Journal of Accounting Information Systems
+VL  - 56
+SP  - 100749
+PY  - 2025
+DA  - 2025/12/01/
+SN  - 1467-0895
+DO  - https://doi.org/10.1016/j.accinf.2025.100749
+UR  - https://www.sciencedirect.com/science/article/pii/S1467089525000259
+KW  - Cybersecurity
+KW  - Banking/financial services
+KW  - Financial performance
+KW  - Risk mitigation
+AB  - This study analyzes the impact of integrating cybersecurity measures on the financial performance of banks. Utilizing regression analysis with data from 100 financial institutions, the findings reveal that banks prioritizing cybersecurity perform better financially. This study demonstrates that it is the quality and strategic integration of cybersecurity measures, as revealed through disclosures, that significantly influence financial outcomes, rather than the sheer scale of investment. A subsample analysis suggests that larger banks appear more resilient to cybersecurity threats due to scale-related advantages, while smaller banks can also improve their financial performance by adopting proportionate, strategically aligned cybersecurity measures. Effective cybersecurity integration correlates with improved financial metrics such as return on assets and equity. Furthermore, the severity of cybersecurity incidents negatively impacts financial performance, emphasizing the importance of proactive risk management. This study underscores the critical role of cybersecurity in financial strategy, enabling banks to navigate digital transformation challenges effectively.
+ER  - 
+
+TY  - JOUR
+T1  - Highly secured authentication and fast handover scheme for mobility management in 5G vehicular networks
+AU  - Krishnan, Prabhakar
+AU  - Jain, Kurunandan
+AU  - Alluhaidan, Ala-Saleh D.
+AU  - Prabu, P
+JO  - Computers and Electrical Engineering
+VL  - 116
+SP  - 109152
+PY  - 2024
+DA  - 2024/05/01/
+SN  - 0045-7906
+DO  - https://doi.org/10.1016/j.compeleceng.2024.109152
+UR  - https://www.sciencedirect.com/science/article/pii/S0045790624000806
+KW  - 5G
+KW  - Wireless
+KW  - Mobility management
+KW  - Handoff
+KW  - Handover authentication
+KW  - SDN
+KW  - NFV
+KW  - Privacy-preserving
+KW  - Vehicular communication
+KW  - v2x
+AB  - The Fifth Generation (5 G) networks exhibit high flexibility and diversity in their design and deployment strategies. Transitions between base stations (BSs), heterogeneous networks (HetNets) and other cellular networks provide significant vulnerabilities and expose users to substantial risks associated with cybersecurity attacks. This article evaluates current handover authentication methods in the context of 5 G networks while proposing a set of security criteria for handover authentication. This study presents a novel authentication technique called SHK (Secure Handover Key) that utilizes SDNs (Software Defined networks). The proposed scheme integrates recycled lightweight dynamic key cryptography and combines security features such as perfect forward secrecy and robustness to leakages. The significance of the proposed approach is assessed in terms of computations, communications, signals, and energy costs on 5 G mobility applications and Vehicular Communication Networks (VCNs). The scheme employed in this study demonstrates enhanced security measures and improved changeover performance compared to conventional schemes.
+ER  - 
+
+TY  - JOUR
+T1  - Global supply chains security: a comparative analysis of emerging threats and traceability solutions
+AU  - Gokkaya, Betul
+AU  - Karafili, Erisa
+AU  - Aniello, Leonardo
+AU  - Halak, Basel
+JO  - Benchmarking: An International Journal
+VL  - 32
+IS  - 3
+SP  - 917
+EP  - 942
+PY  - 2024
+DA  - 2024/03/12/
+SN  - 1463-5771
+DO  - https://doi.org/10.1108/BIJ-08-2023-0535
+UR  - https://www.sciencedirect.com/science/article/pii/S1463577124000027
+KW  - Supply chain
+KW  - Security
+KW  - Threat modelling
+KW  - Traceability
+KW  - Cyberattacks
+AB  - Purpose
+The purpose of this study is to increase awareness of current supply chain (SC) security-related issues by providing an extensive analysis of existing SC security solutions and their limitations. The security of SCs has received increasing attention from researchers, due to the emerging risks associated with their distributed nature. The increase in risk in SCs comes from threats that are inherently similar regardless of the type of SC, thus, requiring similar defence mechanisms. Being able to identify the types of threats will help developers to build effective defences.
+Design/methodology/approach
+In this work, we provide an analysis of the threats, possible attacks and traceability solutions for SCs, and highlight outstanding problems. Through a comprehensive literature review (2015–2021), we analysed various SC security solutions, focussing on tracking solutions. In particular, we focus on three types of SCs: digital, food and pharmaceutical that are considered prime targets for cyberattacks. We introduce a systematic categorization of threats and discuss emerging solutions for prevention and mitigation.
+Findings
+Our study shows that the current traceability solutions for SC systems do not offer a broadened security analysis and fail to provide extensive protection against cyberattacks. Furthermore, global SCs face common challenges, as there are still unresolved issues, especially those related to the increasing SC complexity and interconnectivity, where cyberattacks are spread across suppliers.
+Originality/value
+This is the first time that a systematic categorization of general threats for SC is made based on an existing threat model for hardware SC.
+ER  - 
+
+TY  - JOUR
+T1  - Firm diversity and data breach risk: A longitudinal study
+AU  - Wang, Qian
+AU  - Ngai, Eric W.T.
+JO  - The Journal of Strategic Information Systems
+VL  - 31
+IS  - 4
+SP  - 101743
+PY  - 2022
+DA  - 2022/12/01/
+SN  - 0963-8687
+DO  - https://doi.org/10.1016/j.jsis.2022.101743
+UR  - https://www.sciencedirect.com/science/article/pii/S0963868722000397
+KW  - Firm diversity
+KW  - Data breach risk
+KW  - Information security
+KW  - Resource-based view
+KW  - Diversity type
+KW  - Managerial ability
+AB  - Research has extensively investigated the rationale of firm diversity from the economic perspective, but little is known about how such a strategy may affect information security. The present study is the first to examine how firm diversity is relevant to firms’ likelihood to experience data breaches (i.e., data breach risk). Drawing from the strands of literature on information security, diversification, and resource-based view, we propose hypotheses on the relationship between firm diversity and data breach risk, as well as the boundary conditions of this relationship. On the basis of a twelve-year sample of publicly-listed firms, our analysis provides evidence to support the negative association between firm diversity and data breach risk. Our analysis also delineates conditions under which the effects of firm diversity can intervene to reduce the data breach risk invoked, such as under related diversity and when managers are managerially capable. For academics, our research accentuates an intriguing but unexamined benefit of firm diversity because it relates to information security. For practicing professionals, this research highlights the significant impact of firms’ operational structure on information security.
+ER  - 
+
+TY  - JOUR
+T1  - Verify and trust: A multidimensional survey of zero-trust security in the age of IoT
+AU  - Azad, Muhammad Ajmal
+AU  - Abdullah, Sidrah
+AU  - Arshad, Junaid
+AU  - Lallie, Harjinder
+AU  - Ahmed, Yussuf Hassan
+JO  - Internet of Things
+VL  - 27
+SP  - 101227
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2024.101227
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660524001689
+KW  - Blockchain
+KW  - Zero-trust architecture
+KW  - Authentication and authorization
+KW  - Policy-based authorization
+AB  - The zero-trust (ZT) model assumes that all users, devices, and network traffic should not considered as trusted until proven. The Zero-trust model emphasizes the importance of verifying and authenticating every user and device, and limiting access to resources based on the principle of least privilege. Under the principle of the zero-trust model, devices are granted access after they have been successfully presented with their authentication credentials and access rights based on different factors, such as user identity, device health, location, and behaviour. Access controls are then continuously evaluated and updated as user properties, locations and behaviour change. The zero-trust model can be applied in various domains (healthcare, manufacturing, financial services, government etc.) to provide a comprehensive approach to cybersecurity that helps organizations to reduce risk and protect critical assets. This paper aims to provide a comprehensive and in-depth analysis of the zero-trust model, its principles, and its applications, as well as to propose recommendations for organizations looking to adopt this approach. We explore the major components of the zero-trust framework and their integration across different practical domains. Finally, we provide insightful discussions on open research issues within the zero-trust model in terms of the security and privacy of users and devices. This paper should help researchers and practitioners understand the importance of a zero-trust framework and adopt the zero-trust model for effective security, privacy, and resilience of their networks.
+ER  - 
+
+TY  - JOUR
+T1  - Evaluating organizational phishing awareness training on an enterprise scale
+AU  - Hillman, Doron
+AU  - Harel, Yaniv
+AU  - Toch, Eran
+JO  - Computers & Security
+VL  - 132
+SP  - 103364
+PY  - 2023
+DA  - 2023/09/01/
+SN  - 0167-4048
+DO  - https://doi.org/10.1016/j.cose.2023.103364
+UR  - https://www.sciencedirect.com/science/article/pii/S0167404823002742
+KW  - Phishing
+KW  - Phishing wave
+KW  - Social engineering
+KW  - Organizational cyber security
+KW  - Awareness
+KW  - Training
+AB  - Employees are often the victims of phishing attacks, posing a threat to both themselves and their organizations. In response, organizations are dedicating resources, time, and employee effort to train staff to identify simulated phishing attacks. However, the real-world effectiveness of these training efforts in large enterprises remains largely unexplored. To address this, we carried out a controlled experiment in an Israeli financial institution with approximately 5,000 employees. The experiment included three simulated phishing emails, and we examined how different factors influence the phishing Click-Through Rate (CTR). Our findings suggest that employees are more likely to engage with phishing simulation emails that use personalized phrasing. We also found that phishing CTR varies between business units, and that the timing of training before the simulated email did not significantly affect phishing CTR. Furthermore, it became clear that training prior to phishing simulations and adopting a data-driven approach that includes process, variable and measure analysis, can enhance organizational awareness of phishing. Although advanced technologies can mitigate some phishing attacks, our research indicates that employee awareness and proactive behavior will continue to play a critical role in the foreseeable future. The paper concludes by providing guidelines to information security officers on establishing effective organizational awareness to prevent phishing attacks.
+ER  - 
+
+TY  - JOUR
+T1  - Economic Impact of Cyber Attacks and Effective Cyber Risk Management Strategies: A light literature review and case study analysis
+AU  - Fotis, Friederikos
+JO  - Procedia Computer Science
+VL  - 251
+SP  - 471
+EP  - 478
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 15th International Conference on Emerging Ubiquitous Systems and Pervasive Networks / 14th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare EUSPN/ICTH 2024
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.11.135
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050924033696
+KW  - Cyber Security
+KW  - Cyber Threats
+KW  - Cyber Attacks
+KW  - Cyber Risk Management
+KW  - Cyber Risk Strategies
+KW  - Cyber Resilience
+KW  - Economic Impact
+AB  - Businesses increasingly rely on digital technologies in the digital age, making them vulnerable to cyberattacks. These attacks, which range from data leaks to ransomware, can cause significant economic damage. Effective cyber risk management strategies that include preventive, reactive, and continuous measures can significantly reduce the risk and impact of such attacks. Norsk Hydro's case study illustrates the importance of a robust incident response plan and continuous improvements in cybersecurity measures. This study examines the economic impact of cyberattacks on organizations and identifies effective cyber risk management strategies that can strengthen organizational resilience. The methodology is based on a light literature review, including scientific and grey literature. It also includes an analysis of a real-world case study: the ransomware attack on Norsk Hydro ASA in 2019. The results show that cyberattacks cause direct costs. Furthermore, this study contributes to the academic discourse on cybersecurity and economic resilience by providing evidence-based insights and practical recommendations for businesses. Companies that invest in comprehensive cyber risk management strategies can ensure economic stability and gain competitive advantage by better managing the complexities of the digital landscape.
+ER  - 
+
+TY  - JOUR
+T1  - Risk Analysis on Cognitive Behavioral Theory using Paraconsistent Logic
+AU  - de Lima, Luigi Pavarini
+AU  - Sakamoto, Liliam Sayuri
+AU  - Abe, Jair Minoro
+AU  - De Souza, Jonatas Santos
+AU  - Gonzalez, Angel Antonio
+AU  - Duarte, Aparecido Carlos
+AU  - de Souza, Nilson Amado
+AU  - Marques Junior, Artur Ubaldo
+JO  - Procedia Computer Science
+VL  - 270
+SP  - 2235
+EP  - 2246
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 29th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2025)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.09.344
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925030170
+KW  - Logic Paraconsistent Annotated Evidential Eτ
+KW  - Psychological therapy clinics
+KW  - SIEM - Security Information Event Monitoring
+KW  - risk theory
+KW  - sensitive personal data
+AB  - Currently, many patients in psychological therapy clinics have phobias, noting that this personal information is sensitive, both from the company’s headquarters and its branches, and is recorded in a cloud environment, leaving it exposed and subject to data theft by hackers or data leaks by malicious users. Companies around the world are subject to this type of risk and, therefore, seek not only to protect their customers’ data when dealing with sensitive health data, but also preventive monitoring to avoid the disclosure of information. This study presents the use of SIEM - Security Information Event Monitoring, that is, a tool for collecting information on risk analysis of events that occur with patients using Evidential Annotated Paraconsistent Logic Eτ. This identifies threats that exploit their vulnerabilities, in case of leaking of this data, through the dissemination of malware, or phishing through spam. Automated market tools could have been used, but in them, the risk analysis is only at the basic or initial level, with no secondary levels. However, when a customized SIEM is used, suspicious situations or situations that require further evaluation are detected, at which point an alert is automatically triggered for the DPO – Data Protection Officer who calls on a psychologist to understand the impact of the leaked data. Thus, the article presents exploratory research using SIEM tool with paraconsistent logic, focusing on risk analysis based on artificial intelligence on vulnerabilities related to sensitive data of clinic patients, with a focus on the protection and privacy of their sensitive personal data. Therefore, compared to security regarding data loss minimization in the analysis using SIEM with the aid of Evidential Annotated Paraconsistent Logic, Eτ resulted in 27%, indicating a significant difference as a complementary tool in improving assertiveness at the time of decision making.
+ER  - 
+
+TY  - JOUR
+T1  - Designing and implementing SMILE: An AI-driven platform for enhancing clinical decision-making in mental health and neurodivergence management
+AU  - Pesqueira, Antonio
+AU  - Sousa, Maria Jose
+AU  - Pereira, Ruben
+AU  - Schwendinger, Mark
+JO  - Computational and Structural Biotechnology Journal
+VL  - 27
+SP  - 785
+EP  - 803
+PY  - 2025
+DA  - 2025/01/01/
+SN  - 2001-0370
+DO  - https://doi.org/10.1016/j.csbj.2025.02.022
+UR  - https://www.sciencedirect.com/science/article/pii/S2001037025000492
+KW  - Mental health
+KW  - Neurodivergence
+KW  - Dynamic capabilities
+KW  - Cognitive behavioral therapy
+KW  - Artificial intelligence
+AB  - Rising levels of anxiety, depression, and burnout among healthcare professionals (HCPs) underscore the urgent need for technology-driven interventions that optimize both clinical decision-making and workforce well-being. This innovation report introduces the Support, Management, Individual, Learning Enablement (SMILE) platform, designed to integrate advanced AI-driven decision support, federated learning for data privacy, and cognitive behavioral therapy (CBT) modules into a single, adaptive solution. A mixed-methods pilot evaluation involved focus groups, structured surveys, and real-world usability tests to capture changes in stress levels, user satisfaction, and perceived value. Quantitative analyses revealed significant reductions in reported stress and support times, alongside notable gains in satisfaction and perceived resource value. Qualitatively, participants praised SMILE’s accessible interface, enhanced peer support, and real-time therapeutic interventions. These findings confirm the feasibility and utility of a holistic, Artificial Intelligence (AI) supported framework for improving mental health outcomes in high-stress clinical environments. Theoretically, SMILE contributes to emerging evidence on integrated AI platforms, while it offers an ethically sound and user-friendly blueprint for improving patient care and staff well-being.
+ER  - 
+
+TY  - JOUR
+T1  - Cyberattacks: Economic Impacts and Risk Management Strategies
+AU  - Fotis, Friederikos
+JO  - Procedia Computer Science
+VL  - 251
+SP  - 672
+EP  - 677
+PY  - 2024
+DA  - 2024/01/01/
+T2  - 15th International Conference on Emerging Ubiquitous Systems and Pervasive Networks / 14th International Conference on Current and Future Trends of Information and Communication Technologies in Healthcare EUSPN/ICTH 2024
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2024.11.167
+UR  - https://www.sciencedirect.com/science/article/pii/S187705092403401X
+KW  - Cyber Security
+KW  - Cyber Threats
+KW  - Cyber Attacks
+KW  - Cyber Risk Management
+KW  - Cyber Risk Strategies
+KW  - Cyber Resilience
+KW  - Economic Impact
+AB  - The widespread adoption of emerging information and communication networks has increased organizations’ vulnerability to cyberattacks. These attacks – including data breaches, ransomware, and other cyber threats – pose significant economic risks to the stability of modern businesses. This study offers a comprehensive analysis of the economic impacts of cyberattacks within the context of these emerging networks and outlines effective cyber risk management strategies to enhance organizational resilience. The research elucidates the complex economic repercussions of cyber threats by conducting a rigorous literature review and an in-depth case study of the 2019 ransomware attack on Norsk Hydro ASA. The findings underscore the critical necessity for robust cybersecurity measures in the evolving digital landscape.
+ER  - 
+
+TY  - JOUR
+T1  - E-governance and integration in the European union
+AU  - Troitiño, David Ramiro
+AU  - Mazur, Viktoria
+AU  - Kerikmäe, Tanel
+JO  - Internet of Things
+VL  - 27
+SP  - 101321
+PY  - 2024
+DA  - 2024/10/01/
+SN  - 2542-6605
+DO  - https://doi.org/10.1016/j.iot.2024.101321
+UR  - https://www.sciencedirect.com/science/article/pii/S2542660524002622
+KW  - European union digitalization
+KW  - EU e-governance
+KW  - EU digital integration
+KW  - European integration
+AB  - The research here presented aims to analyze the global impact of e-governance in the European Union. It focuses on the long-term development of the European Union following the spillover effect described by Neofunctionalism integration theory. Therefore, it explores the potential of e-government fostering the European integration to a new level thanks to the new digital possibilities. New information and communication technologies can make a significant contribution to the achievement of good governance goals. This EU “e-governance” can make public management more efficient and more effective and attract the loyalty of the participants to the European project. This research outlines the main contributions of e-governance in Europe: improving government processes (e-administration); connecting citizens (e-citizens and e-services); and building external interactions (e-society). Case studies are used to show that e-governance is a current, not just future, reality for developing countries and the European Union. E-governance requires a concrete roadmap for its development and this chapter focuses on the main steps required to implement an effective e-governance within the European Union.
+ER  - 
+
+TY  - JOUR
+T1  - Optimizing security in the Metaverse using DLP – Data Loss Prevention and Paraconsistent Logic
+AU  - de Lima, Luigi Pavarini
+AU  - Sakamoto, Liliam Sayuri
+AU  - Abe, Jair Minoro
+AU  - Santos Rocha, Marcelo dos
+AU  - Gonzalez, Angel Antonio
+AU  - Duarte, Aparecido Carlos
+AU  - de Souza, Nilson Amado
+AU  - Kirilo, Caique Zaneti
+AU  - Silva Souza, Jonatas da
+AU  - Zenke, Adriane Akemi
+AU  - de Lima, Luiz Antonio
+JO  - Procedia Computer Science
+VL  - 270
+SP  - 357
+EP  - 373
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 29th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2025)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.09.155
+UR  - https://www.sciencedirect.com/science/article/pii/S187705092502825X
+KW  - DLP – Data Loss Prevention
+KW  - Logic Paraconsistent Annotated Evidential Eτ Artificial Intelligence
+KW  - Metaverse
+KW  - NFT - Non-fungible Tokens
+AB  - Considering the growing technological innovation with the use of the Metaverse as an environment for educational, corporate, and governmental interaction, in contrast to the risk of cyberattacks, there is an urgent need to strengthen its security, especially when there is the possibility of transacting assets with NFTs—Non-Fungible Tokens—which are high-value objects acquired and traded through blockchain technology. The objective of this article is to propose a research framework to optimize the security of these NFT assets using DLP—Data Loss Prevention—and Paraconsistent Logic to identify threats not only preventively but also by actively detecting loss, theft, misuse, and leakage of these types of assets during the use of the Metaverse. With a literature review on the Metaverse, DLP—Data Loss Prevention, Evidential Annotated Paraconsistent Logic Eτ, Artificial Intelligence techniques, NFTs—Non-Fungible Tokens, and data protection, the study will employ a Python program to conduct applied research using data from a transportation company, which shows a 37% data loss rate in its analysis. Through this Artificial Intelligence process and statistical concepts, compared to the minimization of data loss in the analysis using Evidential Annotated Paraconsistent Logic, Eτ resulted in 23%, indicating a significant difference of 15%, complemented as a tool to improve decision-making accuracy
+ER  - 
+
+TY  - JOUR
+T1  - RAMI 4.0-based Security Assessment of Healthcare Systems: Identifying Attacks and Quantifying Risks across Layers
+AU  - Farhadighalati, Nastaran
+AU  - Nikghadam-Hojjati, Sanaz
+AU  - Barata, Jose
+JO  - Procedia Computer Science
+VL  - 253
+SP  - 287
+EP  - 296
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 6th International Conference on Industry 4.0 and Smart Manufacturing
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.01.092
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925001000
+KW  - Industry 4.0
+KW  - Healthcare
+KW  - Security Challenges
+KW  - RAMI 4.0
+AB  - The integration of transformative digital technologies has revolutionized healthcare, promising enhanced efficiency and improved patient outcomes. However, this advancement also increases vulnerability to cyberattacks that threaten sensitive patient data and critical medical infrastructure. This paper proposes a novel multi-layered security framework within the RAMI 4.0 model, a reference architecture for Industry 4.0, to address these security concerns. The healthcare system is mapped onto the RAMI 4.0 framework, identifying potential threats within each layer and recognizing the original model’s limitations in providing dedicated security considerations. To enhance security, a healthcare-specific adaptation integrates a security sublayer within each primary layer, allowing security measures to cascade throughout the system. By systematically categorizing attacks and deploying strategic countermeasures, this multi-layered approach addresses the challenges posed by integrating Industry 4.0 technologies into healthcare systems, ensuring secure and efficient integration.
+ER  - 
+
+TY  - JOUR
+T1  - Mining and reasoning of data uncertainty-induced imprecision in deep image classification
+AU  - Zhang, Zuowei
+AU  - Ning, Liangbo
+AU  - Liu, Zechao
+AU  - Yang, Qingyu
+AU  - Ding, Weiping
+JO  - Information Fusion
+VL  - 96
+SP  - 202
+EP  - 213
+PY  - 2023
+DA  - 2023/08/01/
+SN  - 1566-2535
+DO  - https://doi.org/10.1016/j.inffus.2023.03.014
+UR  - https://www.sciencedirect.com/science/article/pii/S1566253523001033
+KW  - Imprecision
+KW  - Data uncertainty
+KW  - Image classification
+KW  - Deep techniques
+KW  - Multiple labels
+AB  - Existing deep image classification techniques strive to suppress data uncertainty for various reasons such as blur, occlusion, noise, and label error and advance to higher accuracy. However, they ignore data uncertainty-induced imprecision and thus do not work as intended. In this paper, we propose a deep open-source framework to mine and reason the imprecision of such training and test sets, which can present better performance and reduce the risk of misclassification. First, we design a label reassignment mechanism. It allows the network to reassign training labels and allow imperfect training samples with multiple labels. As a result, they are removed from the original classes and considered new imprecise samples to represent partial ignorance. Second, we propose a new imbalanced data enhancement architecture to learn a generalized representation of each (precise and imprecise) class. It helps the network fuse the auxiliary information from both precise and imprecise classes, which is beneficial to extract more distinctive class features from single-labeled samples and characterize uncertainty-induced imprecision in the test set by imprecise test samples. Afterward, methodological analyses and empirical evaluations are conducted. The proposed framework is demonstrated to present better performance on different typical networks (Resnet50, MobileNetV2, DenseNet121, EfficientNetB0, ShuffleNetV2, SENet, SqueezeNet, Xception) based on five publicly available datasets (Imagewoof-5, Flowers, Monkey, Butterfly, and Cifar-10). In addition, several targeted deep techniques for uncertain images or imprecise results are also employed as comparisons to prove the superiority of the proposed framework.
+ER  - 
+
+TY  - JOUR
+T1  - A critical literature review of security and privacy in smart home healthcare schemes adopting IoT & blockchain: Problems, challenges and solutions
+AU  - Popoola, Olusogo
+AU  - Rodrigues, Marcos
+AU  - Marchang, Jims
+AU  - Shenfield, Alex
+AU  - Ikpehai, Augustine
+AU  - Popoola, Jumoke
+JO  - Blockchain: Research and Applications
+VL  - 5
+IS  - 2
+SP  - 100178
+PY  - 2024
+DA  - 2024/06/01/
+SN  - 2096-7209
+DO  - https://doi.org/10.1016/j.bcra.2023.100178
+UR  - https://www.sciencedirect.com/science/article/pii/S2096720923000532
+KW  - IoT
+KW  - Smart home healthcare
+KW  - PoA-based permissioned blockchain
+KW  - Authorisation framework
+KW  - Fine-grained access control
+KW  - Interception
+KW  - Privacy model
+KW  - Consent
+AB  - Protecting private data in smart homes, a popular Internet-of-Things (IoT) application, remains a significant data security and privacy challenge due to the large-scale development and distributed nature of IoT networks. Recently, smart healthcare has leveraged smart home systems, thereby compounding security concerns in terms of the confidentiality of sensitive and private data and by extension the privacy of the data owner. However, proof-of-authority (PoA)-based blockchain distributed ledger technology (DLT) has emerged as a promising solution for protecting private data from indiscriminate use and thereby preserving the privacy of individuals residing in IoT-enabled smart homes. This review elicits some concerns, issues, and problems that have hindered the adoption of blockchain and IoT (BCoT) in some domains and suggests requisite solutions using the aging-in-place scenario. Implementation issues with BCoT were examined as well as the combined challenges BCoT can pose when utilised for security gains. The study discusses recent findings, opportunities, and barriers, and provides recommendations that could facilitate the continuous growth of blockchain applications in healthcare. Lastly, the study explored the potential of using a PoA-based permission blockchain with an applicable consent-based privacy model for decision-making in the information disclosure process, including the use of publisher-subscriber contracts for fine-grained access control to ensure secure data processing and sharing, as well as ethical trust in personal information disclosure, as a solution direction. The proposed authorisation framework could guarantee data ownership, conditional access management, scalable and tamper-proof data storage, and a more resilient system against threat models such as interception and insider attacks.
+ER  - 
+
+TY  - JOUR
+T1  - An exploratory analysis of the cybersecurity threat landscape for Botswana
+AU  - Sarefo, Seth
+AU  - Dawson, Maurice
+AU  - Banyatsang, Mphago
+JO  - Procedia Computer Science
+VL  - 219
+SP  - 1012
+EP  - 1022
+PY  - 2023
+DA  - 2023/01/01/
+T2  - CENTERIS – International Conference on ENTERprise Information Systems / ProjMAN – International Conference on Project MANagement / HCist – International Conference on Health and Social Care Information Systems and Technologies 2022
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2023.01.379
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050923003885
+KW  - National Cybersecurity
+KW  - Cybersecurity Threats
+KW  - Cybersecurity Mitigations
+KW  - Cybersecurity Analytics
+AB  - Investigating the cybersecurity threat landscape is important as it increases situational awareness and defensive agility. Therefore, in this study the cybersecurity threat landscape for Botswana was investigated from the perspective of Information Technology (IT) and Cybersecurity professionals in Botswana. Since Botswana has no publicized empirical data on cyber threats, a cybersecurity incidences dataset from the United Kingdom (UK) was first analyzed to understand cybersecurity trends there. Insights obtained from the UK dataset were used as a baseline to design a questionnaire which was sent out to 31 participants from 20 organizations in Botswana. The findings obtained from the questionnaire were analyzed and compared to findings from the UK. This work showed that a coordinated response to cybersecurity and collection of information related to threats and mitigations can help improve situational awareness and defensive agility.
+ER  - 
+
+TY  - JOUR
+T1  - Mapping of data breaches in companies listed on the NYSE and NASDAQ: Insights and implications
+AU  - Pimenta Rodrigues, Gabriel Arquelau
+AU  - Marques Serrano, André Luiz
+AU  - de Oliveira Albuquerque, Robson
+AU  - Mayumi Saiki, Gabriela
+AU  - Santedicola Ribeiro, Sara
+AU  - Sandoval Orozco, Ana Lucila
+AU  - García Villalba, Luis Javier
+JO  - Results in Engineering
+VL  - 21
+SP  - 101893
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 2590-1230
+DO  - https://doi.org/10.1016/j.rineng.2024.101893
+UR  - https://www.sciencedirect.com/science/article/pii/S2590123024001464
+KW  - Cybersecurity
+KW  - Data analysis
+KW  - Data breach
+KW  - Privacy
+KW  - Statistics
+AB  - The Internet of Things, Smart Devices, Information Systems, and Cloud Services have led to a digital transformation of companies. Such revolution has been accompanied by a huge amount of data available for companies, posing the growing challenge of data breaches. However, data breaches are not just a concern and complication for security experts; they also affect clients, stakeholders, organizations, and businesses, as stated by the Privacy Rights Clearinghouse. Thus, this study provides insights into data breaches faced by companies listed on the New York Stock Exchange and NASDAQ. The study found that hacking/IT incidents are the forms of attack with greater impact in data breaches, followed by unauthorized internal disclosures. The frequency of data breaches, the magnitude of exposed records, and financial losses due to breached records are increasing rapidly. Data from the companies listed on the stock exchange is regarded as being highly valuable. This has become a significant lure for the misappropriation and pilferage of data. Addressing this anomaly, the paper employs statistical visualizations of the data to shed light on these incidents and assess their consequences on the affected companies and individuals whose data was compromised. This work aims to contribute to a comprehensive understanding of data breaches and empower organizations to safeguard against them proactively by conducting this multifaceted analysis, and also provides a brief qualitative risk assessment regarding the attack vectors.
+ER  - 
+
+TY  - JOUR
+T1  - Dynamic secret sharing for enhanced cloud security: Tackling eavesdropping and threshold attacks
+AU  - Ali, Sijjad
+AU  - Wadho, Shuaib Ahmed
+AU  - Yichiet, Aun
+AU  - Prince, Nayem Uddin
+AU  - Gan, Ming Lee
+AU  - Lee, Chen Kang
+JO  - Egyptian Informatics Journal
+VL  - 30
+SP  - 100660
+PY  - 2025
+DA  - 2025/06/01/
+SN  - 1110-8665
+DO  - https://doi.org/10.1016/j.eij.2025.100660
+UR  - https://www.sciencedirect.com/science/article/pii/S1110866525000532
+KW  - Secret sharing scheme
+KW  - Cloud computing security
+KW  - Information theoretic security
+KW  - Threshold cryptography
+KW  - Contextual updates
+AB  - In this paper, we propose a novel approach to enhance the security of cloud collaboration while addressing key challenges in cloud computing. The proposed scheme effectively mitigates eavesdropping and threshold attacks, significantly bolstering the security of the cloud environment. Through rigorous performance evaluation, we demonstrate that our method reduces communication overhead and improves resource efficiency compared to existing solutions. Additionally, we introduce a transformation of the dynamic context secret (DCS) into a (t,n) secret sharing scheme, improving its flexibility and addressing critical security issues. This innovative approach represents a significant advancement in cloud collaboration security, offering a measurable improvement over current models. By strengthening both the security and efficiency of cloud environments, our scheme lays the groundwork for more robust and secure cloud computing frameworks.
+ER  - 
+
+TY  - JOUR
+T1  - Continuous discovery of Causal nets for non-stationary business processes using the Online Miner
+AU  - Potoniec, Jedrzej
+AU  - Sroka, Daniel
+AU  - Pawlak, Tomasz P.
+JO  - European Journal of Operational Research
+VL  - 303
+IS  - 3
+SP  - 1304
+EP  - 1320
+PY  - 2022
+DA  - 2022/12/16/
+SN  - 0377-2217
+DO  - https://doi.org/10.1016/j.ejor.2022.03.046
+UR  - https://www.sciencedirect.com/science/article/pii/S0377221722002685
+KW  - Analytics
+KW  - Event log
+KW  - Online learning
+KW  - Business intelligence
+AB  - Capturing business process specifics using a model is essential to effectively manage, control, and instruct the process participants with their roles and tasks. A normative process model is an invaluable source of information, not only for human inspection but also for software supporting and controlling the process. The actual process execution likely deviates from the normative model and the magnitude of deviation usually increases over time due to process evolution. A descriptive process model is far more informative when comes to the analysis of the actual execution of the process and spotting the deviations from the norm. However, handcrafting the descriptive model using process-related documents is prohibitively laborious. To automate the discovery of the descriptive process models, we propose Online Miner (OM), an algorithm that continuously builds process models using a stream of events raised by the process. OM first builds a sound process model using a historical event log and then incrementally adapts this model to new data chunks. OM represents the model using a Causal-net – a dependency graph of activities in which arcs are bound with each other to reflect parallel dependencies and exclusive alternatives. OM finds the maximal bindings being consistent with the event log. OM produces sound and perfect fit and generalizing well models. OM quickly reacts to the concept drift spot in the event log by seamlessly adapting the model. OM helps business analytics experts with their everyday tasks of monitoring, auditing, and enhancing business processes.
+ER  - 
+
+TY  - JOUR
+T1  - Advancing cloud security: Unveiling the protective potential of homomorphic secret sharing in secure cloud computing
+AU  - Ali, Sijjad
+AU  - Wadho, Shuaib Ahmed
+AU  - Yichiet, Aun
+AU  - Gan, Ming Lee
+AU  - Lee, Chen Kang
+JO  - Egyptian Informatics Journal
+VL  - 27
+SP  - 100519
+PY  - 2024
+DA  - 2024/09/01/
+SN  - 1110-8665
+DO  - https://doi.org/10.1016/j.eij.2024.100519
+UR  - https://www.sciencedirect.com/science/article/pii/S1110866524000823
+KW  - Cloud computing
+KW  - Security
+KW  - Data protection
+KW  - Homomorphic encryption
+KW  - Undercover sharing techniques
+AB  - Cloud computing security and data protection are becoming increasingly critical as its use increases. The research we present demonstrates how undercover sharing techniques and homomorphic encryption can be combined to protect private information in cloud computing scenarios. We create a reliable, private, and confidential computation platform by utilizing this dual approach. Our strategy involves protecting data while dividing it among multiple servers. By using this distribution, the system is less likely to suffer from single points of failure and has a higher security level. To ensure information privacy and security, data encryption restricts access to authorized individuals only. As an additional feature, we employ homomorphic encryption to enable operations on encrypted data without direct access to the originals. By using this feature, sensitive data is protected from disclosure or misuse while being processed. Therefore, original data confidentiality can be preserved when computing on encrypted shares. Several performance tests were conducted to prove our strategy’s practicality and effectiveness. Our considerations extended beyond encryption and decryption time and processing overhead. In our research, we demonstrate that our method strikes the right balance between security and computational efficiency.
+ER  - 
+
+TY  - JOUR
+T1  - DLP: Data loss prevention with paraconsistent logic for security in the metaverse
+AU  - de Lima, Luigi Pavarini
+AU  - Sakamoto, Liliam Sayuri
+AU  - Abe, Jair Minoro
+AU  - De Souza, Jonatas Santos
+AU  - Gonzalez, Angel Antonio
+AU  - Duarte, Aparecido Carlos
+AU  - de Souza, Nilson Amado
+AU  - Marques Junior, Artur Ubaldo
+JO  - Procedia Computer Science
+VL  - 270
+SP  - 374
+EP  - 386
+PY  - 2025
+DA  - 2025/01/01/
+T2  - 29th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems (KES 2025)
+SN  - 1877-0509
+DO  - https://doi.org/10.1016/j.procs.2025.09.156
+UR  - https://www.sciencedirect.com/science/article/pii/S1877050925028261
+KW  - DLP – Data Loss Prevention
+KW  - Logic Paraconsistent Annotated Evidential Eτ Artificial Intelligence
+KW  - Metaverse
+KW  - NFT - Non-fungible Tokens
+AB  - The objective of this article is to propose a research structure to optimize this security of assets with NFT - Non- fungible Token with the use of DLP - Data Loss Prevention and Paraconsistent Logic for the identification not only preventively, but actively of the loss, theft, misuse and leakage of this type of assets during their use in the Metaverse. A bibliographic review was carried out on Metaverse, DLP, Paraconsistent Logic, Artificial Intelligence techniques [10][27][28], NFT [49][50], and Data Protection [4] with a focus on the LGPD (Brazilian Data Protection Law) [2][23], in conjunction with exploratory research. With a DLP and a database provided by the transport company with 200 articles analyzed. It was verified that a significant amount of data would be discarded in the first stage of the process (37%) since they do not present an active definition on the status of these assets. Considering the growing technological innovation with the use of the Metaverse, as an environment for educational, business and governmental interaction against the risk of cyber-attacks, there is an urgent need to strengthen its security, even more so when in this environment, where there is the possibility of moving assets with NFTs that are objects of great value acquired and traded in this medium. With the use of the Python program in the DLP, it was observed that it presented a 37% data loss in its analysis with this Artificial Intelligence [11] process only with the performance of the DLP, compared to the optimization of this analysis with the use of Paraconsistent Logic at 23%, that is, a use of more than 15% of the data.
+ER  - 
+
+TY  - JOUR
+T1  - Modeling the role of generative AI in organizational privacy and security
+AU  - Choudhary, Shweta Kumari
+AU  - Kar, Arpan Kumar
+JO  - Decision Support Systems
+VL  - 196
+SP  - 114500
+PY  - 2025
+DA  - 2025/09/01/
+SN  - 0167-9236
+DO  - https://doi.org/10.1016/j.dss.2025.114500
+UR  - https://www.sciencedirect.com/science/article/pii/S0167923625001010
+KW  - Cyber security
+KW  - Mixed methods
+KW  - SOIPSVM
+KW  - Generative artificial intelligence
+KW  - Organizational structure
+KW  - Information governance
+AB  - In today's digital environment, organizations face security challenges like intentional breaches influenced by their specific policies and structures. As emerging technologies like Generative Artificial Intelligence (GAI) become more integrated into organizational processes, the adoption of GAI moderates organizational contextual conditions and rule characteristics, which affects the perceived risk of violating security rules. We extend the SOIPSV model to analyze cybersecurity practices and the strategic use of GAI in enhancing organizational resilience against security breaches. We establish the direct and moderating impacts of contextual conditions and rule characteristics, along with interactions in complex organizational cyber security. Our first study uses text mining for inferential and configurational analysis. Our second qualitative study explained the model of dynamic interplay between GAI and organizational factors. Our findings have implications for perceived risk management and managers redesigning business processes to manage security breaches.
+ER  - 
+
+TY  - JOUR
+T1  - Exploring the grounds for cyber resilience in the hyper-connected oil and gas industry
+AU  - Pettersen, Solveig
+AU  - Grøtan, Tor Olav
+JO  - Safety Science
+VL  - 171
+SP  - 106384
+PY  - 2024
+DA  - 2024/03/01/
+SN  - 0925-7535
+DO  - https://doi.org/10.1016/j.ssci.2023.106384
+UR  - https://www.sciencedirect.com/science/article/pii/S0925753523003260
+AB  - This paper explores the offshore oil and gas industry as a case of an industry operating in demanding conditions with an imminent potential for catastrophic failure, undergoing major transformations driven by advances in digital technologies while being exposed to an increasingly aggressive threat landscape due to geopolitical changes. It is also a case of cyber-physical systems with tight couplings between digital changes which might be incited from virtually anywhere, and real-world, physical consequences. The exploration is aimed at understanding, based on interviews, to which extent the existing cyber security practices in the industry carries the potential to be strengthened by the application of resilience principles. An enhanced level of cyber security, denoted cyber resilience, is regarded as a crucial part for the industry to become able to close a strategic agility gap, in which they are at risk of falling behind in their response repertoire, becoming stuck and stale while trying keep up with an increasing rate of shocks through classical modelling and simulation. Resilience is, however, a concept with many meanings, originating from a diversity of academic discourses. The paper demonstrates the usefulness of analyzing the empirical data through an analytical framework of cyber resilience, a “resilience ABC”, accommodating a crucial distinction between robustness and resilience founded on adaptive capacities. Moreover, we find that closing the strategic agility gap requires a cyber resilience approach that is a mix of robustness and adaptive capacity, and that the gradual shift towards more emphasis on adaptive capacity requires a fundamental shift from seeing resilience-as-outcome as just an epiphenomenon of existing practice. In contrast, we see adaptive capacity as resilience-as-process, a phenomenon to study on its own terms. This also implies that cyber resilience management must move beyond a sheer assimilation with risk management. As access to real incident data may be limited, we also advocate the idea of training on scenarios at the boundaries of robustness.
+ER  - 

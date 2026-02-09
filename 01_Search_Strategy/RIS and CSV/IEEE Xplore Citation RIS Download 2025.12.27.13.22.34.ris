@@ -1,0 +1,509 @@
+TY  - JOUR
+TI  - A Review of Recent Advances, Challenges, and Opportunities in Malicious Insider Threat Detection Using Machine Learning Methods
+T2  - IEEE Access
+SP  - 30907
+EP  - 30927
+AU  - F. R. Alzaabi
+AU  - A. Mehmood
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3369906
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - DTITD: An Intelligent Insider Threat Detection Framework Based on Digital Twin and Self-Attention Based Deep Learning Models
+T2  - IEEE Access
+SP  - 114013
+EP  - 114030
+AU  - Z. Q. Wang
+AU  - A. El Saddik
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3324371
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+ER  - 
+
+TY  - JOUR
+TI  - A Comprehensive Survey of Explainable Artificial Intelligence Techniques for Malicious Insider Threat Detection
+T2  - IEEE Access
+SP  - 121772
+EP  - 121798
+AU  - K. Saeed Alketbi
+AU  - A. Mehmood
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3587114
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - JOUR
+TI  - DDCC: Synergizing Denoising Diffusion Probabilistic Models and Curriculum-Based Complexity Control for Insider Threat Detection
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 8351
+EP  - 8361
+AU  - J. Dong
+AU  - J. Wei
+AU  - X. Hu
+AU  - Z. Dong
+AU  - F. Chen
+AU  - X. Hu
+AU  - J. Qi
+PY  - 2025
+DO  - 10.1109/TII.2025.3574417
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 11
+SN  - 1941-0050
+VO  - 21
+VL  - 21
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - Nov. 2025
+ER  - 
+
+TY  - JOUR
+TI  - Behavioral Based Insider Threat Detection Using Deep Learning
+T2  - IEEE Access
+SP  - 143266
+EP  - 143274
+AU  - R. Nasir
+AU  - M. Afzal
+AU  - R. Latif
+AU  - W. Iqbal
+PY  - 2021
+DO  - 10.1109/ACCESS.2021.3118297
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 9
+VL  - 9
+JA  - IEEE Access
+Y1  - 2021
+ER  - 
+
+TY  - JOUR
+TI  - Insider Threat Detection Model Using Anomaly-Based Isolation Forest Algorithm
+T2  - IEEE Access
+SP  - 118170
+EP  - 118185
+AU  - T. Al-Shehari
+AU  - M. Al-Razgan
+AU  - T. Alfakih
+AU  - R. A. Alsowail
+AU  - S. Pandiaraj
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3326750
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+ER  - 
+
+TY  - JOUR
+TI  - FedITD: A Federated Parameter-Efficient Tuning With Pre-Trained Large Language Models and Transfer Learning Framework for Insider Threat Detection
+T2  - IEEE Access
+SP  - 160396
+EP  - 160417
+AU  - Z. Qiang Wang
+AU  - H. Wang
+AU  - A. El Saddik
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3482988
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - Anomaly Detection for Insider Threats Using Unsupervised Ensembles
+T2  - IEEE Transactions on Network and Service Management
+SP  - 1152
+EP  - 1164
+AU  - D. C. Le
+AU  - N. Zincir-Heywood
+PY  - 2021
+DO  - 10.1109/TNSM.2021.3071928
+JO  - IEEE Transactions on Network and Service Management
+IS  - 2
+SN  - 1932-4537
+VO  - 18
+VL  - 18
+JA  - IEEE Transactions on Network and Service Management
+Y1  - June 2021
+ER  - 
+
+TY  - JOUR
+TI  - Enhancing Insider Threat Detection in Imbalanced Cybersecurity Settings Using the Density-Based Local Outlier Factor Algorithm
+T2  - IEEE Access
+SP  - 34820
+EP  - 34834
+AU  - T. A. Al-Shehari
+AU  - D. Rosaci
+AU  - M. Al-Razgan
+AU  - T. Alfakih
+AU  - M. Kadrie
+AU  - H. Afzal
+AU  - R. Nawaz
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3373694
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - Applying One-Class Algorithms for Data Stream-Based Insider Threat Detection
+T2  - IEEE Access
+SP  - 70560
+EP  - 70573
+AU  - R. B. Peccatiello
+AU  - J. J. C. Gondim
+AU  - L. P. F. Garcia
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3293825
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+ER  - 
+
+TY  - JOUR
+TI  - Toward Securing Federated Learning Against Poisoning Attacks in Zero Touch B5G Networks
+T2  - IEEE Transactions on Network and Service Management
+SP  - 1612
+EP  - 1624
+AU  - S. Ben Saad
+AU  - B. Brik
+AU  - A. Ksentini
+PY  - 2023
+DO  - 10.1109/TNSM.2023.3278838
+JO  - IEEE Transactions on Network and Service Management
+IS  - 2
+SN  - 1932-4537
+VO  - 20
+VL  - 20
+JA  - IEEE Transactions on Network and Service Management
+Y1  - June 2023
+ER  - 
+
+TY  - JOUR
+TI  - DPI-ITD: A Dual-Perspective Information-Driven Framework for Insider Threat Detection in IoT Systems
+T2  - IEEE Internet of Things Journal
+SP  - 40731
+EP  - 40749
+AU  - K. Kong
+AU  - X. Jin
+AU  - D. Liu
+AU  - S. Xu
+AU  - Z. Liu
+AU  - G. Geng
+PY  - 2025
+DO  - 10.1109/JIOT.2025.3589636
+JO  - IEEE Internet of Things Journal
+IS  - 19
+SN  - 2327-4662
+VO  - 12
+VL  - 12
+JA  - IEEE Internet of Things Journal
+Y1  - 1 Oct.1, 2025
+ER  - 
+
+TY  - JOUR
+TI  - AUTH: An Adversarial Autoencoder Based Unsupervised Insider Threat Detection Scheme for Multisource Logs
+T2  - IEEE Transactions on Industrial Informatics
+SP  - 10954
+EP  - 10965
+AU  - X. Zhu
+AU  - J. Dong
+AU  - J. Qi
+AU  - Z. Zhou
+AU  - Z. Dong
+AU  - Y. Sun
+AU  - M. Wang
+PY  - 2024
+DO  - 10.1109/TII.2024.3393491
+JO  - IEEE Transactions on Industrial Informatics
+IS  - 9
+SN  - 1941-0050
+VO  - 20
+VL  - 20
+JA  - IEEE Transactions on Industrial Informatics
+Y1  - Sept. 2024
+ER  - 
+
+TY  - JOUR
+TI  - SENTINEL: Insider Threat Detection Based on Multi-Timescale User Behavior Interaction Graph Learning
+T2  - IEEE Transactions on Network Science and Engineering
+SP  - 774
+EP  - 790
+AU  - F. Xiao
+AU  - S. Chen
+AU  - S. Chen
+AU  - Y. Ma
+AU  - H. He
+AU  - J. Yang
+PY  - 2025
+DO  - 10.1109/TNSE.2024.3519155
+JO  - IEEE Transactions on Network Science and Engineering
+IS  - 2
+SN  - 2327-4697
+VO  - 12
+VL  - 12
+JA  - IEEE Transactions on Network Science and Engineering
+Y1  - March-April 2025
+ER  - 
+
+TY  - JOUR
+TI  - Double-Layer Detection of Internal Threat in Enterprise Systems Based on Deep Learning
+T2  - IEEE Transactions on Information Forensics and Security
+SP  - 4741
+EP  - 4751
+AU  - D. He
+AU  - X. Lv
+AU  - X. Xu
+AU  - S. Chan
+AU  - K. -K. R. Choo
+PY  - 2024
+DO  - 10.1109/TIFS.2024.3372771
+JO  - IEEE Transactions on Information Forensics and Security
+IS  - 
+SN  - 1556-6021
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Information Forensics and Security
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - Threats From Unintentional Insiders: An Assessment of an Organization’s Readiness Using Machine Learning
+T2  - IEEE Access
+SP  - 110294
+EP  - 110308
+AU  - M. M. H. Rahman
+AU  - M. A. A. Naeem
+AU  - A. Abubakar
+PY  - 2022
+DO  - 10.1109/ACCESS.2022.3214819
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+ER  - 
+
+TY  - JOUR
+TI  - Mitigating Insider Threat: A Neural Network Approach for Enhanced Security
+T2  - IEEE Access
+SP  - 73752
+EP  - 73768
+AU  - P. Lavanya
+AU  - H. Anila Glory
+AU  - V. S. Shankar Sriram
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3404814
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - A High Accuracy and Adaptive Anomaly Detection Model With Dual-Domain Graph Convolutional Network for Insider Threat Detection
+T2  - IEEE Transactions on Information Forensics and Security
+SP  - 1638
+EP  - 1652
+AU  - X. Li
+AU  - X. Li
+AU  - J. Jia
+AU  - L. Li
+AU  - J. Yuan
+AU  - Y. Gao
+AU  - S. Yu
+PY  - 2023
+DO  - 10.1109/TIFS.2023.3245413
+JO  - IEEE Transactions on Information Forensics and Security
+IS  - 
+SN  - 1556-6021
+VO  - 18
+VL  - 18
+JA  - IEEE Transactions on Information Forensics and Security
+Y1  - 2023
+ER  - 
+
+TY  - JOUR
+TI  - Hunting for Insider Threats Using LSTM-Based Anomaly Detection
+T2  - IEEE Transactions on Dependable and Secure Computing
+SP  - 451
+EP  - 462
+AU  - M. Villarreal-Vasquez
+AU  - G. Modelo-Howard
+AU  - S. Dube
+AU  - B. Bhargava
+PY  - 2023
+DO  - 10.1109/TDSC.2021.3135639
+JO  - IEEE Transactions on Dependable and Secure Computing
+IS  - 1
+SN  - 1941-0018
+VO  - 20
+VL  - 20
+JA  - IEEE Transactions on Dependable and Secure Computing
+Y1  - 1 Jan.-Feb. 2023
+ER  - 
+
+TY  - JOUR
+TI  - A Taxonomic Classification of Insider Threats: Existing Techniques, Future Directions & Recommendations
+T2  - Journal of Cyber Security and Mobility
+SP  - 221
+EP  - 252
+AU  - U. Rauf
+AU  - F. Mohsen
+AU  - Z. Wei
+PY  - 2023
+DO  - 10.13052/jcsm2245-1439.1225
+JO  - Journal of Cyber Security and Mobility
+IS  - 2
+SN  - 2245-4578
+VO  - 12
+VL  - 12
+JA  - Journal of Cyber Security and Mobility
+Y1  - March 2023
+ER  - 
+
+TY  - JOUR
+TI  - Privilege Escalation Attack Detection and Mitigation in Cloud Using Machine Learning
+T2  - IEEE Access
+SP  - 46561
+EP  - 46576
+AU  - M. Mehmood
+AU  - R. Amin
+AU  - M. M. A. Muslam
+AU  - J. Xie
+AU  - H. Aldabbas
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3273895
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+ER  - 
+
+TY  - JOUR
+TI  - Super Learner Ensemble for Anomaly Detection and Cyber-Risk Quantification in Industrial Control Systems
+T2  - IEEE Internet of Things Journal
+SP  - 13279
+EP  - 13297
+AU  - G. Ahmadi-Assalemi
+AU  - H. Al-Khateeb
+AU  - G. Epiphaniou
+AU  - A. Aggoun
+PY  - 2022
+DO  - 10.1109/JIOT.2022.3144127
+JO  - IEEE Internet of Things Journal
+IS  - 15
+SN  - 2327-4662
+VO  - 9
+VL  - 9
+JA  - IEEE Internet of Things Journal
+Y1  - 1 Aug.1, 2022
+ER  - 
+
+TY  - JOUR
+TI  - Reinforcement Learning-Based Generative Security Framework for Host Intrusion Detection
+T2  - IEEE Access
+SP  - 15346
+EP  - 15362
+AU  - Y. Kim
+AU  - S. -Y. Hong
+AU  - S. Park
+AU  - H. K. Kim
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3532353
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - JOUR
+TI  - Robust Anomaly-Based Insider Threat Detection Using Graph Neural Network
+T2  - IEEE Transactions on Network and Service Management
+SP  - 3717
+EP  - 3733
+AU  - J. Xiao
+AU  - L. Yang
+AU  - F. Zhong
+AU  - X. Wang
+AU  - H. Chen
+AU  - D. Li
+PY  - 2023
+DO  - 10.1109/TNSM.2022.3222635
+JO  - IEEE Transactions on Network and Service Management
+IS  - 3
+SN  - 1932-4537
+VO  - 20
+VL  - 20
+JA  - IEEE Transactions on Network and Service Management
+Y1  - Sept. 2023
+ER  - 
+
+TY  - JOUR
+TI  - Matryoshka: Exploiting the Over-Parametrization of Deep Learning Models for Covert Data Transmission
+T2  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+SP  - 663
+EP  - 678
+AU  - X. Pan
+AU  - M. Zhang
+AU  - Y. Yan
+AU  - S. Zhang
+AU  - M. Yang
+PY  - 2025
+DO  - 10.1109/TPAMI.2024.3434417
+JO  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+IS  - 2
+SN  - 1939-3539
+VO  - 47
+VL  - 47
+JA  - IEEE Transactions on Pattern Analysis and Machine Intelligence
+Y1  - Feb. 2025
+ER  - 
+
+

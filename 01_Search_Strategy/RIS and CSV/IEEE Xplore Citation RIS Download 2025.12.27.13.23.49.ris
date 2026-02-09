@@ -1,0 +1,387 @@
+TY  - JOUR
+TI  - Detecting and Identifying Insider Threats Based on Advanced Clustering Methods
+T2  - IEEE Access
+SP  - 30242
+EP  - 30253
+AU  - O. Nikiforova
+AU  - A. Romanovs
+AU  - V. Zabiniako
+AU  - J. Kornienko
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3365424
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - Quantitative Analysis of Worm Transmission and Insider Risks in Air-Gapped Networking Using a Novel Machine Learning Approach
+T2  - IEEE Access
+SP  - 111034
+EP  - 111052
+AU  - M. Sulaiman
+AU  - A. Khan
+AU  - A. N. Ali
+AU  - G. Laouini
+AU  - F. S. Alshammari
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3322924
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+ER  - 
+
+TY  - JOUR
+TI  - Training Data Poisoning in ML-CAD: Backdooring DL-Based Lithographic Hotspot Detectors
+T2  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+SP  - 1244
+EP  - 1257
+AU  - K. Liu
+AU  - B. Tan
+AU  - R. Karri
+AU  - S. Garg
+PY  - 2021
+DO  - 10.1109/TCAD.2020.3024780
+JO  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+IS  - 6
+SN  - 1937-4151
+VO  - 40
+VL  - 40
+JA  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+Y1  - June 2021
+ER  - 
+
+TY  - JOUR
+TI  - LAN: Learning Adaptive Neighbors for Real-Time Insider Threat Detection
+T2  - IEEE Transactions on Information Forensics and Security
+SP  - 10157
+EP  - 10172
+AU  - X. Cai
+AU  - Y. Wang
+AU  - S. Xu
+AU  - H. Li
+AU  - Y. Zhang
+AU  - Z. Liu
+AU  - X. Yuan
+PY  - 2024
+DO  - 10.1109/TIFS.2024.3488527
+JO  - IEEE Transactions on Information Forensics and Security
+IS  - 
+SN  - 1556-6021
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Information Forensics and Security
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - A Fine-Grained Approach for Anomaly Detection in File System Accesses With Enhanced Temporal User Profiles
+T2  - IEEE Transactions on Dependable and Secure Computing
+SP  - 2535
+EP  - 2550
+AU  - S. Mehnaz
+AU  - E. Bertino
+PY  - 2021
+DO  - 10.1109/TDSC.2019.2954507
+JO  - IEEE Transactions on Dependable and Secure Computing
+IS  - 6
+SN  - 1941-0018
+VO  - 18
+VL  - 18
+JA  - IEEE Transactions on Dependable and Secure Computing
+Y1  - 1 Nov.-Dec. 2021
+ER  - 
+
+TY  - JOUR
+TI  - Explainable Data Poison Attacks on Human Emotion Evaluation Systems Based on EEG Signals
+T2  - IEEE Access
+SP  - 18134
+EP  - 18147
+AU  - Z. Zhang
+AU  - S. Umar
+AU  - A. Y. A. Hammadi
+AU  - S. Yoon
+AU  - E. Damiani
+AU  - C. A. Ardagna
+AU  - N. Bena
+AU  - C. Y. Yeun
+PY  - 2023
+DO  - 10.1109/ACCESS.2023.3245813
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 11
+VL  - 11
+JA  - IEEE Access
+Y1  - 2023
+ER  - 
+
+TY  - JOUR
+TI  - GraphCH: A Deep Framework for Assessing Cyber-Human Aspects in Insider Threat Detection
+T2  - IEEE Transactions on Dependable and Secure Computing
+SP  - 4495
+EP  - 4509
+AU  - K. C. Roy
+AU  - G. Chen
+PY  - 2024
+DO  - 10.1109/TDSC.2024.3353929
+JO  - IEEE Transactions on Dependable and Secure Computing
+IS  - 5
+SN  - 1941-0018
+VO  - 21
+VL  - 21
+JA  - IEEE Transactions on Dependable and Secure Computing
+Y1  - Sept.-Oct. 2024
+ER  - 
+
+TY  - JOUR
+TI  - Learning Contextualized Action Representations in Sequential Decision Making for Adversarial Malware Optimization
+T2  - IEEE Transactions on Dependable and Secure Computing
+SP  - 2086
+EP  - 2102
+AU  - R. Ebrahimi
+AU  - J. Pacheco
+AU  - J. Hu
+AU  - H. Chen
+PY  - 2025
+DO  - 10.1109/TDSC.2024.3477272
+JO  - IEEE Transactions on Dependable and Secure Computing
+IS  - 3
+SN  - 1941-0018
+VO  - 22
+VL  - 22
+JA  - IEEE Transactions on Dependable and Secure Computing
+Y1  - May-June 2025
+ER  - 
+
+TY  - JOUR
+TI  - GMFITD: Graph Meta-Learning for Effective Few-Shot Insider Threat Detection
+T2  - IEEE Transactions on Information Forensics and Security
+SP  - 7161
+EP  - 7175
+AU  - X. Li
+AU  - L. Li
+AU  - X. Li
+AU  - B. Cai
+AU  - J. Jia
+AU  - Y. Gao
+AU  - S. Yu
+PY  - 2024
+DO  - 10.1109/TIFS.2024.3430106
+JO  - IEEE Transactions on Information Forensics and Security
+IS  - 
+SN  - 1556-6021
+VO  - 19
+VL  - 19
+JA  - IEEE Transactions on Information Forensics and Security
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - ACED-IT: Assuring Confidential Electronic Design Against Insider Threats in a Zero-Trust Environment
+T2  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+SP  - 3202
+EP  - 3215
+AU  - A. Stern
+AU  - H. Wang
+AU  - F. Rahman
+AU  - F. Farahmandi
+AU  - M. Tehranipoor
+PY  - 2022
+DO  - 10.1109/TCAD.2021.3127864
+JO  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+IS  - 10
+SN  - 1937-4151
+VO  - 41
+VL  - 41
+JA  - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
+Y1  - Oct. 2022
+ER  - 
+
+TY  - JOUR
+TI  - IDU-Detector: A Synergistic Framework for Robust Masquerader Attack Detection
+T2  - IEEE Internet of Things Journal
+SP  - 9653
+EP  - 9670
+AU  - Z. Huang
+AU  - X. Li
+AU  - X. Cao
+AU  - K. Chen
+AU  - L. Wang
+AU  - L. Bo-Yee Liu
+PY  - 2025
+DO  - 10.1109/JIOT.2024.3503057
+JO  - IEEE Internet of Things Journal
+IS  - 8
+SN  - 2327-4662
+VO  - 12
+VL  - 12
+JA  - IEEE Internet of Things Journal
+Y1  - 15 April15, 2025
+ER  - 
+
+TY  - JOUR
+TI  - A Federated Deep Reinforcement Learning-Based Trust Model in Underwater Acoustic Sensor Networks
+T2  - IEEE Transactions on Mobile Computing
+SP  - 5150
+EP  - 5161
+AU  - Y. He
+AU  - G. Han
+AU  - A. Li
+AU  - T. Taleb
+AU  - C. Wang
+AU  - H. Yu
+PY  - 2024
+DO  - 10.1109/TMC.2023.3301825
+JO  - IEEE Transactions on Mobile Computing
+IS  - 5
+SN  - 1558-0660
+VO  - 23
+VL  - 23
+JA  - IEEE Transactions on Mobile Computing
+Y1  - May 2024
+ER  - 
+
+TY  - JOUR
+TI  - Contextual Sequence-Based User Behavior Anomaly Detection
+T2  - IEEE Access
+SP  - 35539
+EP  - 35554
+AU  - O. Gonzales
+AU  - K. Yang
+AU  - S. Huang
+PY  - 2025
+DO  - 10.1109/ACCESS.2025.3543500
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 13
+VL  - 13
+JA  - IEEE Access
+Y1  - 2025
+ER  - 
+
+TY  - JOUR
+TI  - Covert Task Embedding: Turning a DNN Into an Insider Agent Leaking Out Private Information
+T2  - IEEE Transactions on Neural Networks and Learning Systems
+SP  - 10159
+EP  - 10166
+AU  - L. Li
+AU  - W. Zhang
+AU  - M. Barni
+PY  - 2024
+DO  - 10.1109/TNNLS.2022.3216010
+JO  - IEEE Transactions on Neural Networks and Learning Systems
+IS  - 7
+SN  - 2162-2388
+VO  - 35
+VL  - 35
+JA  - IEEE Transactions on Neural Networks and Learning Systems
+Y1  - July 2024
+ER  - 
+
+TY  - JOUR
+TI  - A Hybrid Data Protection Mechanisms Using Attribute Based Encryption and Role Based Access Control Mechanism for Digital Music Classrooms
+T2  - Journal of Cyber Security and Mobility
+SP  - 1033
+EP  - 1066
+AU  - L. Song
+PY  - 2025
+DO  - 10.13052/jcsm2245-1439.1451
+JO  - Journal of Cyber Security and Mobility
+IS  - 5
+SN  - 2245-4578
+VO  - 14
+VL  - 14
+JA  - Journal of Cyber Security and Mobility
+Y1  - September 2025
+ER  - 
+
+TY  - JOUR
+TI  - Identification of Wearable Devices with Bluetooth
+T2  - IEEE Transactions on Sustainable Computing
+SP  - 221
+EP  - 230
+AU  - H. Aksu
+AU  - A. S. Uluagac
+AU  - E. S. Bentley
+PY  - 2021
+DO  - 10.1109/TSUSC.2018.2808455
+JO  - IEEE Transactions on Sustainable Computing
+IS  - 2
+SN  - 2377-3782
+VO  - 6
+VL  - 6
+JA  - IEEE Transactions on Sustainable Computing
+Y1  - 1 April-June 2021
+ER  - 
+
+TY  - JOUR
+TI  - ZETAR: Modeling and Computational Design of Strategic and Adaptive Compliance Policies
+T2  - IEEE Transactions on Computational Social Systems
+SP  - 4001
+EP  - 4015
+AU  - L. Huang
+AU  - Q. Zhu
+PY  - 2024
+DO  - 10.1109/TCSS.2023.3323539
+JO  - IEEE Transactions on Computational Social Systems
+IS  - 3
+SN  - 2329-924X
+VO  - 11
+VL  - 11
+JA  - IEEE Transactions on Computational Social Systems
+Y1  - June 2024
+ER  - 
+
+TY  - JOUR
+TI  - On Identification of Intrusive Applications: A Step Toward Heuristics-Based Adaptive Security Policy
+T2  - IEEE Access
+SP  - 37586
+EP  - 37599
+AU  - F. Mohsen
+AU  - U. Rauf
+AU  - V. Lavric
+AU  - A. Kokushkin
+AU  - Z. Wei
+AU  - A. Martinez
+PY  - 2024
+DO  - 10.1109/ACCESS.2024.3373202
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 12
+VL  - 12
+JA  - IEEE Access
+Y1  - 2024
+ER  - 
+
+TY  - JOUR
+TI  - LA-DETECTS: Local and Adaptive Data-Centric Misbehavior Detection Framework for Vehicular Technology Security
+T2  - IEEE Open Journal of Vehicular Technology
+SP  - 145
+EP  - 169
+AU  - R. Sultana
+AU  - J. Grover
+AU  - M. Tripathi
+AU  - P. Sharma
+PY  - 2025
+DO  - 10.1109/OJVT.2024.3513152
+JO  - IEEE Open Journal of Vehicular Technology
+IS  - 
+SN  - 2644-1330
+VO  - 6
+VL  - 6
+JA  - IEEE Open Journal of Vehicular Technology
+Y1  - 2025
+ER  - 
+
+
